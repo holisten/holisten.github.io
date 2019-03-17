@@ -19,4 +19,4 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
 
-permalink: /:year-:month-:day-:title:output_ext
+permalink: /aktuelles/:year-:month-:day-:title:output_ext

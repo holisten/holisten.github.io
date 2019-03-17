@@ -3,6 +3,7 @@ title: Partei
 description: die Holisten Partei. Infos und mehr.
 tags: [keyword1, keyword2, keyword3]
 layout: posts
+permalink: /partei/
 ---
 # Überschrift 1
 

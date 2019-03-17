@@ -1,6 +1,7 @@
 ---
 title: Datenschutz
 layout: posts
+permalink: /site/datenschutz/
 ---
 # Datenschutzerklärung
 
