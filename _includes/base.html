@@ -1,3 +1,4 @@
 <!-- _includes/base.html -->
 {% assign base = site.url %}
-{% assign current = page.url | downcase | remove: '/' | remove: '.html' %}
+{% assign current = page.url | downcase | remove: '/' | remove: '.html' | append: "/" %}
+{% assign parent = page.parent | downcase | remove: '/' | remove: '.html' | append: "/" %}

@@ -13,6 +13,7 @@
   }
   .navbar-brand {
     color: $gray-500;
+    box-shadow: none;
     @include script-font;
     &.active,
     &:active,
@@ -29,6 +30,7 @@
         padding: 0.75em 0;
         letter-spacing: 1px;
         color: white;
+        box-shadow: none;
         @include heading-font;
       }
       .nav-link-text {

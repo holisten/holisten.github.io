@@ -10,4 +10,6 @@ layout: posts
 
 ### Überschrift 3
 
-Partei
+Partei.
+
+Hier ist das [Parteiprogramm](/partei/programm/)

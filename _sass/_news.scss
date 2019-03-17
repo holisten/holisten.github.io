@@ -1,0 +1,19 @@
+#news {
+    div.news-container {
+        background-color: #ededed;
+        padding: 25px;
+        margin-top: 7px;
+        div.news-header {
+            float: right;
+        }
+        div.news-title {
+            border-left: 3px solid #333;
+            padding-left: 10px;
+        }
+        div.news-more {
+            text-align: right;
+            text-transform: uppercase;
+            font-weight: 500;
+        }
+    }
+}
