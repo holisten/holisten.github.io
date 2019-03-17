@@ -5,11 +5,11 @@ intro:
 
 services:
   heading: die holisten
-  subheading: subheading Lorem ipsum dolor sit amet consectetur.
+  subheading: Parteislogan festlegen
   service:
     - icon: fa fa-shopping-cart
       heading: Recklinghausen
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+      text: Recklinghausen, eine Stadt ...
     - icon: fa fa-laptop
       heading: Europa
       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
@@ -19,7 +19,7 @@ services:
 
 portfolio:
   heading: Themen
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  subheading: Überblick der wesentlichen Punkte.
 
 about:
   heading: About
