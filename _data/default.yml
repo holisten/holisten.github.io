@@ -14,25 +14,22 @@ nav:
   - title: Aktuelles
     url: 'aktuelles'
 
-copyright: Copyright &copy; Your Website 2018
+copyright: Copyright &copy; die Holisten 2019
 
 social-buttons:
-  - icon: fa fa-twitter
+  - icon: fab fa-twitter
     url: '#' 
-  - icon: fa fa-facebook
+  - icon: fab fa-facebook
     url: '#'
-  - icon: fa fa-linkedin
+  - icon: fab fa-youtube
+    url: '#'
+  - icon: fab fa-instagram
     url: '#'
 
 quicklinks:
-  - title: Privacy Policy
-    url: '#'
-  - title: Terms of Use
-    url: '#'
-
-modal:
-  date-string: 'Date: '
-  client-string: 'Client: '
-  category-string: 'Category: '
-  close-icon: 'fa fa-times'
-  close-string: 'Close Project'
+  - title: Kontakt
+    url: '/site/kontakt'
+  - title: Datenschutz
+    url: '/site/datenschutz'
+  - title: Impressum
+    url: '/site/impressum'

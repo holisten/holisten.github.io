@@ -1,12 +1,13 @@
 ---
-title: Nostro Delius digitis Nepheleidos Liber clamantia doles
-description: Lorem ipsum dolor sit amet consectetur.
+title: Eintrag nummer 2
+description: Eintrag nummer 2 Beschreibung
+tags: [keyword1, keyword2, keyword3]
 layout: posts
 ---
 
 # Überschrift
 
-TExt machen
+Text machen
 
 ## Zweite Überschrift
 

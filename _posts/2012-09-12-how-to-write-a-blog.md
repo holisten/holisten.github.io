@@ -1,6 +1,7 @@
 ---
-title: Nostro Delius digitis Nepheleidos Liber clamantia doles
-description: Lorem ipsum dolor sit amet consectetur.
+title: Eintrag nummer 1
+description: Eintrag nummer 1 Beschreibung
+tags: [keyword1, keyword2, keyword3]
 layout: posts
 ---
 

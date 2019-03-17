@@ -1,21 +1,26 @@
 {% include base.html %}
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ page.lang | default: site.lang | default: "de" }}">
 
   <head>
-
     <meta charset="utf-8">
+    <title>{{ page.title | default: site.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="{{ site.description }}">
-    <meta name="author" content="{{ site.author }}">
-
-    <title>{{ site.title }}</title>
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    {%if page.tags %}
+    <meta name="keywords" content="{{ page.tags | join: ', ' | escape }}"/>
+    {%endif %}
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta property="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    
 
     <!-- Bootstrap core CSS -->
     <link href="{{base}}/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom fonts for this template -->
-    <link href="{{base}}/assets/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
@@ -34,14 +39,22 @@
         <a class="navbar-brand js-scroll-trigger" href="{{ site.url }}">{{ site.data.default.brand.name }}</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           {{ site.data.default.menu-string }}
-          <i class="fa fa-bars"></i>
+          <i class="fas fa-bars"></i>
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav text-uppercase ml-auto">
             {%- for link in site.data.default.nav -%}
             {% assign ws = '' %}
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="{{ site.url }}/{{ link.url }}">{{ link.title }}</a>
+              <a class="nav-link js-scroll-trigger" href="{{ site.url }}/{{ link.url }}">
+
+                {% if link.url == current %}
+                <span class="nav-link-text active">{{ link.title }}</span>
+                {% else %}
+                <span class="nav-link-text">{{ link.title }}</span>
+                {% endif %}
+                
+              </a>
             </li>
             {%- endfor -%}
           {% assign ws = '' %}
@@ -106,7 +119,7 @@
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">{{ project.title }}</h2>
-                  <p class="item-intro text-muted">{{ project.description }}</p>
+                  <p class="item-intro">{{ project.description }}</p>
                   <img class="img-fluid d-block mx-auto" src="{{base}}/assets/{{ project.image }}" alt="">
                   {% assign ws = '' %}
                   {{- project.content -}}

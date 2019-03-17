@@ -12,27 +12,29 @@
     @include heading-font;
   }
   .navbar-brand {
-    color: $primary;
+    color: $gray-500;
     @include script-font;
     &.active,
     &:active,
     &:focus,
     &:hover {
-      color: darken($primary, 10%);
+      color: lighten($white, 10%);
     }
   }
   .navbar-nav {
     .nav-item {
       .nav-link {
         font-size: 90%;
-        font-weight: 400;
+        font-weight: 600;
         padding: 0.75em 0;
         letter-spacing: 1px;
         color: white;
         @include heading-font;
+      }
+      .nav-link-text {
         &.active,
         &:hover {
-          color: $primary;
+          border-bottom: 2px solid white;
         }
       }
     }
@@ -46,7 +48,7 @@
     -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
     border: none;
-    background-color: transparent;
+    background-color: $gray-900;
     .navbar-brand {
       font-size: 1.75em;
       -webkit-transition: all 0.3s;

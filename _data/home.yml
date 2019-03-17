@@ -7,15 +7,18 @@ services:
   heading: die holisten
   subheading: Parteislogan festlegen
   service:
-    - icon: fa fa-shopping-cart
+    - icon: fas fa-city
       heading: Recklinghausen
       text: Recklinghausen, eine Stadt ...
-    - icon: fa fa-laptop
+      url: /recklinghausen/
+    - icon: fas fa-globe-europe
       heading: Europa
       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
-    - icon: fa fa-lock
+      url: /europa/
+    - icon: fas fa-globe
       heading: Welt
       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+      url: /welt/
 
 portfolio:
   heading: Themen
@@ -54,33 +57,33 @@ team:
       role: Lead Designer
       img: img/team/1.jpg
       social-buttons:
-        - icon: fa fa-twitter
+        - icon: fas fa-twitter
           url: "#" 
-        - icon: fa fa-facebook
+        - icon: fas fa-facebook
           url: "#"
-        - icon: fa fa-linkedin
+        - icon: fas fa-linkedin
           url: "#"
         
     - name: Larry Parker
       role: Lead Marketer
       img: img/team/2.jpg
       social-buttons:
-        - icon: fa fa-twitter
+        - icon: fas fa-twitter
           url: "#"
-        - icon: fa fa-facebook
+        - icon: fas fa-facebook
           url: "#"
-        - icon: fa fa-linkedin
+        - icon: fas fa-linkedin
           url: "#"
 
     - name: Diana Pertersen
       role: Lead Developer
       img: img/team/3.jpg
       social-buttons:
-        - icon: fa fa-twitter
+        - icon: fas fa-twitter
           url: "#"
-        - icon: fa fa-facebook
+        - icon: fas fa-facebook
           url: "#"
-        - icon: fa fa-linkedin
+        - icon: fas fa-linkedin
           url: "#"
 
   text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.

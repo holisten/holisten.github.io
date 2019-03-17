@@ -1,2 +1,3 @@
 <!-- _includes/base.html -->
 {% assign base = site.url %}
+{% assign current = page.url | downcase | remove: '/' | remove: '.html' %}

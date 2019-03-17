@@ -19,7 +19,7 @@ layout: default
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">{{ site.data.home.services.heading }}</h2>
-            <h3 class="section-subheading text-muted">{{ site.data.home.services.subheading }}</h3>
+            <h3 class="section-subheading">{{ site.data.home.services.subheading }}</h3>
           </div>
         </div>
         <div class="row text-center">
@@ -31,7 +31,7 @@ layout: default
               <i class="{{ service.icon }} fa-stack-1x fa-inverse"></i>
             </span>
             <h4 class="service-heading">{{ service.heading }}</h4>
-            <p class="text-muted">{{ service.text }}</p>
+            <p>{{ service.text }} <a href="{{service.url}}">Mehr ...</a></p>
           </div>
           {%- endfor -%}
         {% assign ws = '' %}
@@ -39,13 +39,13 @@ layout: default
       </div>
     </section>
 
-    <!-- Portfolio Grid -->
+    <!-- Themes Grid -->
     <section class="bg-light" id="portfolio">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">{{ site.data.home.portfolio.heading }}</h2>
-            <h3 class="section-subheading text-muted">{{ site.data.home.portfolio.subheading }}</h3>
+            <h3 class="section-subheading">{{ site.data.home.portfolio.subheading }}</h3>
           </div>
         </div>
         <div class="row">
@@ -57,7 +57,7 @@ layout: default
             </a>
             <div class="portfolio-caption">
               <h4>{{ project.client }}</h4>
-              <p class="text-muted">{{ project.category }}</p>
+              <p>{{ project.category }}</p>
             </div>
           </div>
           {%- endfor -%}
@@ -66,7 +66,7 @@ layout: default
       </div>
     </section>
 
-    <!-- About -->
+    <!-- About 
     <section id="about">
       <div class="container">
         <div class="row">
@@ -108,8 +108,8 @@ layout: default
         </div>
       </div>
     </section>
-
-    <!-- Team -->
+-->
+    <!-- Team 
     <section class="bg-light" id="team">
       <div class="container">
         <div class="row">
@@ -149,65 +149,4 @@ layout: default
         </div>
       </div>
     </section>
-
-    <!-- Clients -->
-    <section class="py-5">
-      <div class="container">
-        <div class="row">
-          {%- for client in site.data.home.clients -%}
-          {% assign ws = '' %}
-          <div class="col-md-3 col-sm-6">
-            <a href="{{ client.url }}">
-              <img class="img-fluid d-block mx-auto" src="{{base}}/assets/{{ client.img }}" alt="">
-            </a>
-          </div>
-          {%-  endfor -%}
-        {% assign ws = '' %}
-        </div>
-      </div>
-    </section>
-
-    <!-- Contact -->
-    <section id="contact">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">{{ site.data.home.contact.heading }}</h2>
-            <h3 class="section-subheading text-muted">{{ site.data.home.contact.subheading }}</h3>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-12">
-            <form id="contactForm" name="sentMessage" novalidate="novalidate">
-              <div class="row">
-                <div class="col-md-6">
-                  <div class="form-group">
-                    <input class="form-control" id="name" type="text" placeholder="{{ site.data.home.contact.name }}" required="required" data-validation-required-message="{{ site.data.home.contact.name-required }}">
-                    <p class="help-block text-danger"></p>
-                  </div>
-                  <div class="form-group">
-                    <input class="form-control" id="email" type="email" placeholder="{{ site.data.home.contact.email }}" required="required" data-validation-required-message="{{ site.data.home.contact.email-required }}">
-                    <p class="help-block text-danger"></p>
-                  </div>
-                  <div class="form-group">
-                    <input class="form-control" id="phone" type="tel" placeholder="{{ site.data.home.contact.phone }}" required="required" data-validation-required-message="{{ site.data.home.contact.phone-required }}">
-                    <p class="help-block text-danger"></p>
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="form-group">
-                    <textarea class="form-control" id="message" placeholder="{{ site.data.home.contact.message }}" required="required" data-validation-required-message="{{ site.data.home.contact.message-required }}"></textarea>
-                    <p class="help-block text-danger"></p>
-                  </div>
-                </div>
-                <div class="clearfix"></div>
-                <div class="col-lg-12 text-center">
-                  <div id="success"></div>
-                  <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">{{ site.data.home.contact.btn }}</button>
-                </div>
-              </div>
-            </form>
-          </div>
-        </div>
-      </div>
-    </section>
+-->
