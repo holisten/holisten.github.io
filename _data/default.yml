@@ -1,0 +1,38 @@
+brand:
+  name: die Holisten
+menu-string: Menu
+
+nav:
+  - title: Recklinghausen
+    url: 'recklinghausen'
+  - title: Europa
+    url: 'europa'
+  - title: Welt
+    url: 'welt'
+  - title: Partei
+    url: 'partei'
+  - title: Aktuelles
+    url: 'aktuelles'
+
+copyright: Copyright &copy; Your Website 2018
+
+social-buttons:
+  - icon: fa fa-twitter
+    url: '#' 
+  - icon: fa fa-facebook
+    url: '#'
+  - icon: fa fa-linkedin
+    url: '#'
+
+quicklinks:
+  - title: Privacy Policy
+    url: '#'
+  - title: Terms of Use
+    url: '#'
+
+modal:
+  date-string: 'Date: '
+  client-string: 'Client: '
+  category-string: 'Category: '
+  close-icon: 'fa fa-times'
+  close-string: 'Close Project'
