@@ -3,6 +3,7 @@ title: Eintrag nummer 2
 description: Eintrag nummer 2 Beschreibung
 tags: [keyword1, keyword2, keyword3]
 layout: posts
+parent: aktuelles
 ---
 
 Datum: 17.03.2019
