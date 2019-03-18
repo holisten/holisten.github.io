@@ -1,32 +1,25 @@
 ---
 layout: default
 ---
-<style>
-    #mainNav {
-    background-color: #212529;
-    }
-</style>
-<section id="news">
-    <div class="container">
-      {% for post in site.posts %}
-      <div class="row">
-        <div class="col-md-12">
-            <div class="news-container">
-                <div class="news-header">
-                    <p>{{ post.date | date: "%d.%m.%Y"}}</p>
-                </div>
-                <div class="news-title">
-                    <h2>{{ post.title }}</h2>
-                </div>
-                <div class="news-description">
-                    {{ post.description }}
-                </div>
-                <div class="news-more">
-                    <a href="{{ post.url }}">Mehr</a>
-                </div>
-            </div>  
+<div class="container" id="news">
+    {% for post in site.posts %}
+    <div class="row">
+    <div class="col-md-12">
+        <div class="news-container">
+            <div class="news-header">
+                <p>{{ post.date | date: "%d.%m.%Y"}}</p>
+            </div>
+            <div class="news-title">
+                <h2>{{ post.title }}</h2>
+            </div>
+            <div class="news-description">
+                {{ post.description }}
+            </div>
+            <div class="news-more">
+                <a href="{{ post.url }}">Mehr</a>
+            </div>
         </div>  
-       </div>
-        {% endfor %}
+    </div>  
     </div>
-</section>
+    {% endfor %}
+</div>

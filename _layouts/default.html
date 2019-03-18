@@ -1,18 +1,14 @@
 {% include base.html %}
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "de" }}">
-
   <head>
     <meta charset="utf-8">
-    <title>{{ page.title | default: site.title }}</title>
+    {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     {%if page.tags %}
     <meta name="keywords" content="{{ page.tags | join: ', ' | escape }}"/>
     {%endif %}
-    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta property="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta property="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 
     <!-- Bootstrap core CSS -->
@@ -28,6 +24,7 @@
     <!-- Custom styles for this template -->
     <link href="{{base}}/assets/css/agency.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+
     <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
     <script>
     window.addEventListener("load", function(){
@@ -51,7 +48,6 @@
   </head>
 
   <body id="page-top">
-
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
       <div class="container">
@@ -79,6 +75,11 @@
         </div>
       </div>
     </nav> 
+    {% if page.layout != 'home' %}
+    <div class="container breadcrumb-div">
+        {% include breadcrumbs.html %}
+    </div>
+    {% endif %}
 {{ content }}
     <!-- Footer -->
     <footer>
@@ -115,52 +116,6 @@
       </div>
     </footer>
 
-    {% assign ws = '' %}
-    {%- if page.layout == 'home' -%}
-    <!-- Portfolio Modals -->
-    {%- for project in site.projects -%}
-{% assign ws = '' %}
-
-    <!-- Modal {{ project.id | replace: '/projects/', '' }} -->
-    <div class="portfolio-modal modal fade" id="portfolioModal{{ project.id | replace: '/projects/', '' }}" tabindex="-1" role="dialog" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-          <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-              <div class="rl"></div>
-            </div>
-          </div>
-          <div class="container">
-            <div class="row">
-              <div class="col-lg-8 mx-auto">
-                <div class="modal-body">
-                  <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">{{ project.title }}</h2>
-                  <p class="item-intro">{{ project.description }}</p>
-                  <img class="img-fluid d-block mx-auto" src="{{base}}/assets/{{ project.image }}" alt="">
-                  {% assign ws = '' %}
-                  {{- project.content -}}
-                  {% assign ws = '' %}                  <ul class="list-inline">
-                    <li>{{ site.data.default.modal.date-string }}{{ project.date | date: "%B %Y" }}</li>
-                    <li>{{ site.data.default.modal.client-string }}{{ project.client }}</li>
-                    <li>{{ site.data.default.modal.category-string }}{{ project.category }}</li>
-                  </ul>
-                  <button class="btn btn-primary" data-dismiss="modal" type="button">
-                    <i class="{{ site.data.default.modal.close-icon }}"></i>
-                    {{ site.data.default.modal.close-string }}</button>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    {%- endfor -%}
-
-    {%- endif -%}
-    {% assign ws = '' %}
-
     <!-- Bootstrap core JavaScript -->
     <script src="{{base}}/assets/vendor/jquery/jquery.min.js"></script>
     <script src="{{base}}/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
@@ -168,9 +123,12 @@
     <!-- Plugin JavaScript -->
     <script src="{{base}}/assets/vendor/jquery-easing/jquery.easing.min.js"></script>
 
+    {%if page.title == "Kontakt" %}
     <!-- Contact form JavaScript -->
     <script src="{{base}}/assets/js/jqBootstrapValidation.js"></script>
     <script src="{{base}}/assets/js/contact_me.js"></script>
+    {%endif %}
+
 
     <!-- Custom scripts for this template -->
     <script src="{{base}}/assets/js/agency.min.js"></script>
