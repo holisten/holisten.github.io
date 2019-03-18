@@ -23,6 +23,11 @@ social:
     - https://github.com/holisten/
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  html_to_native: true
+  hard_wrap: false
+
 remote_theme: SotiriosVrachas/jekyll-theme-startbootstrap-agency@0.2.4
 plugins:
   - jekyll-remote-theme
