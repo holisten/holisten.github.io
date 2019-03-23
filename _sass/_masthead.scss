@@ -25,6 +25,20 @@ header.masthead {
       @include heading-font;
     }
   }
+  .blockquote {
+    background: rgba(173,181,189,.4)
+  }
+  .blockquote-footer {
+    padding: 0;
+    color: $gray-100;
+  }
+  .header-more {
+    color: $white;
+    &:hover {
+      text-decoration: none;
+      box-shadow: none;
+    }
+  }
 }
 @media(min-width:768px) {
   header.masthead {

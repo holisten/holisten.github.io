@@ -1,16 +1,11 @@
 ---
-title: Eintrag nummer 1
-description: Eintrag nummer 1 Beschreibung
+title: Erster offizieller Parteitag der Holisten
+description: Erster offizieller Parteitag der Holisten
 tags: [keyword1, keyword2, keyword3]
 layout: posts
 parent: aktuelles
 ---
-
-Datum: 17.03.2019
-
-# Nostro Delius digitis Nepheleidos Liber clamantia doles
-
-## Tulit vulnere damnandus sunt utque mare Bacchi
+## Erster offizieller Parteitag der Holisten
 
 Lorem markdownum coloni. Honoris ille quam non gutture, **illo** aegra totosque
 Agaue mea ubi **petebat erat**, apta costas. Qui satis de consurgit quosque; sed

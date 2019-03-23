@@ -11,6 +11,8 @@ nav:
     url: 'welt/'
   - title: Partei
     url: 'partei/'
+  - title: Themen
+    url: 'themen/'
   - title: Aktuelles
     url: 'aktuelles/'
 

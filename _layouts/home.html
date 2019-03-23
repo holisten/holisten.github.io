@@ -6,9 +6,16 @@ layout: default
     <header class="masthead">
       <div class="container">
         <div class="intro-text">
-          <div class="intro-lead-in">{{ site.data.home.intro.lead-in }}</div>
+          <div class="intro-lead-in">
+            <blockquote class="blockquote text-center">
+              <p class="mb-0">{{ site.data.home.intro.lead-in-1 }}</p>
+              <p class="mb-0">{{ site.data.home.intro.lead-in-2 }}</p>
+              <p class="mb-0">{{ site.data.home.intro.lead-in-3 }}</p>
+              <footer class="blockquote-footer"><cite title="Source Title">{{ site.data.home.intro.lead-in-source }}</cite></footer>
+            </blockquote>
+          </div>
           <div class="intro-heading text-uppercase">{{ site.data.home.intro.heading }}</div>
-          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">{{ site.data.home.intro.btn }}</a>
+          <a class="header-more js-scroll-trigger" href="#services"><i class="fas fa-chevron-down fa-5x"></i></a>
         </div>
       </div>
     </header>

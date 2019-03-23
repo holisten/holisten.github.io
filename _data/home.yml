@@ -1,7 +1,9 @@
 intro:
-  lead-in: "Zwei Dinge sind unendlich, das Universum und die menschliche Dummheit, aber bei dem Universum bin ich mir noch nicht ganz sicher."
+  lead-in-1: τὰ ὄντα ἰέναι τε πάντα καὶ μένειν οὐδέν
+  lead-in-2: Ta onta ienai te panta kai menein ouden
+  lead-in-3: "\"All entities move and nothing remains still\""
+  lead-in-source: Heraklit
   heading: die Holisten
-  btn: Mehr davon
 
 services:
   heading: die holisten
@@ -22,7 +24,7 @@ services:
 
 portfolio:
   heading: Themen
-  subheading: Überblick der wesentlichen Punkte.
+  subheading: Überblick der wesentlichen Punkte
 
 about:
   heading: About
