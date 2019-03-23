@@ -26,7 +26,8 @@ header.masthead {
     }
   }
   .blockquote {
-    background: rgba(173,181,189,.4)
+    background: rgba(173,181,189,.4);
+    font-size: 1.0rem;
   }
   .blockquote-footer {
     padding: 0;
@@ -59,6 +60,9 @@ header.masthead {
         margin-bottom: 50px;
         @include heading-font;
       }
+    }
+    .blockquote {
+      font-size: 1.25rem;
     }
   }
 }

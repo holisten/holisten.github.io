@@ -1,5 +1,5 @@
 ---
-title: Erster offizieller Parteitag der Holisten
+title: Erster offizieller Parteitag
 description: Erster offizieller Parteitag der Holisten
 tags: [keyword1, keyword2, keyword3]
 layout: posts
