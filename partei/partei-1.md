@@ -10,7 +10,8 @@ permalink: "/partei/"
 published: false
 
 ---
-Hier ist das [Parteiprogramm](/partei/programm/) der Holisten
+Hier ist das [Parteiprogramm](/partei/programm/) der Holisteng
+
 ## Ausgangslage, Motivation
 
 Die Welt war noch nie potentiell so gut vernetzt wie heute. Gleichzeitig gibt es
