@@ -71,4 +71,4 @@ Wir wollen Ergebnisorientierte Politik ohne Lagerbildung und in Zusammenarbeit m
 
 Nachdem zahlreiche Namensvorschläge die diskutierten Inhalte und Ziele nicht ganz fassen konnten, wurden spätere Mitglieder der Holisten durch die TV-Serie (Dirk Gentlys holistische Detektei) zu diesem Namen inspiriert. Konzepte des [Holismus](https://de.wikipedia.org/wiki/Holismus?fbclid=IwAR3phRDxFmMKg5husj8iHMu0LyLWRlTgSZ0mV-qXaLNn0tLZbfFZeM1OpVI) bieten viele Ansatzpunkte für unsere Politik, welche Menschen verbinden und nicht trennen soll.
 
-Nun ist es an uns, den Rahmen mit Inhalt zu füllen und auch das Konzept des Holismus tiefergehend zu studieren, ohne andere Perspektiven auszuschließen.
+##### Nun ist es an uns, den Rahmen mit Inhalt zu füllen und auch das Konzept des Holismus tiefergehend zu studieren, ohne andere Perspektiven auszuschließen.
