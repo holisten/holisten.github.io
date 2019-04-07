@@ -41,6 +41,22 @@ Holisten das Gesamtwohl der Menschen im Auge haben.
 ##   
 Holismus 
 
+#### Holismus Definition
+
+Holismus ist ein vielseitiger Begriff mit verschieden Interpretationen
+
+[de.wikipedia.org](https://de.wikipedia.org/wiki/Holismus "Wikipedia")
+
+[https://hbdm.ch/index.php/philosophie.html](https://de.wikipedia.org/wiki/Holismus "https://de.wikipedia.org/wiki/Holismus")
+
+[https://www.unil.ch/files/live/sites/philo/files/shared/DocsPerso/EsfeldMichael/2003/Bergs_Curdts03.pdf](https://de.wikipedia.org/wiki/Holismus "https://de.wikipedia.org/wiki/Holismus")
+
+[https://lexikon.stangl.eu/5394/holismus/](https://de.wikipedia.org/wiki/Holismus "https://de.wikipedia.org/wiki/Holismus")
+
+[https://philpapers.org/rec/ESTQAH](https://de.wikipedia.org/wiki/Holismus "https://de.wikipedia.org/wiki/Holismus")
+
+[https://de.wikipedia.org/wiki/Dirk_Gentlys_holistische_Detektei](https://de.wikipedia.org/wiki/Holismus "https://de.wikipedia.org/wiki/Holismus")
+
 #### Was bedeutet Holismus für uns im Moment
 
 Wir sind uns der Tatsache bewusst, dass der Begriff _Holismus_ viel Platz für Interpretationsspielraum bietet. daher wollen wir an dieser Stelle unser Sicht zum Holismus Konkretisieren. Der Holismus als Betrachtungswinkel auf die Gesellschaft beinhaltet die Auseinandersetzung mit allen Teilen der Gesellschaft, von unten nach oben sowie von links nach rechts. Als Aktions- und Handlungsmodel ist der Holismus Rahmen gebend in dem .Holismus ist für uns sowohl Betrachtungswinkel als auch Aktionsradius, denn durch Kausalität werden scheinbar losgelöste Fragmente in Kohärenz zu einander gesetzt.
