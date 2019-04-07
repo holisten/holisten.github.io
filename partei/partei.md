@@ -36,5 +36,3 @@ Förderung des lokalen Lowtech-Handwerks sowie der forschungsnahen
 Hightech-Innovation, Dialog und Diskurs mit allen Parteien, Wissenstransfer,
 interdisziplinäre Netzwerke, Verknüpfung einzelner Wissensinseln wollen die
 Holisten das Gesamtwohl der Menschen im Auge haben.
-
-[Kontakte und Impressum](http://holisten.de/site/impressum/)
