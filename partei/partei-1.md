@@ -37,3 +37,22 @@ Förderung des lokalen Lowtech-Handwerks sowie der forschungsnahen
 Hightech-Innovation, Dialog und Diskurs mit allen Parteien, Wissenstransfer,
 interdisziplinäre Netzwerke, Verknüpfung einzelner Wissensinseln wollen die
 Holisten das Gesamtwohl der Menschen im Auge haben.
+
+##   
+Holismus 
+
+#### Was bedeutet Holismus für uns im Moment
+
+Wir sind uns der Tatsache bewusst, dass der Begriff _Holismus_ viel Platz für Interpretationsspielraum bietet. daher wollen wir an dieser Stelle unser Sicht zum Holismus Konkretisieren. Der Holismus als Betrachtungswinkel auf die Gesellschaft beinhaltet die Auseinandersetzung mit allen Teilen der Gesellschaft, von unten nach oben sowie von links nach rechts. Als Aktions- und Handlungsmodel ist der Holismus Rahmen gebend in dem .Holismus ist für uns sowohl Betrachtungswinkel als auch Aktionsradius, denn durch Kausalität werden scheinbar losgelöste Fragmente in Kohärenz zu einander gesetzt.
+
+#### Der politische Holismus
+
+Als politischen Holismus verstehen wir die Gesamtheit unsere politischen Ziele, die Zusammenarbeit zu fördern und das gesellschaftliche miteinander zu verbessern.
+
+Wir wollen Ergebnisorientierte Politik ohne Lagerbildung und in Zusammenarbeit mit allen Demokratischen Kräften zum wohle Aller.
+
+#### Wieso heißen wir die Holisten.
+
+Nachdem zahlreiche Namensvorschläge die diskutierten Inhalte und Ziele nicht ganz fassen konnten, wurden spätere Mitglieder der Holisten durch die TV-Serie (Dirk Gentlys holistische Detektei) zu diesem Namen inspiriert. Konzepte des [Holismus](https://de.wikipedia.org/wiki/Holismus?fbclid=IwAR3phRDxFmMKg5husj8iHMu0LyLWRlTgSZ0mV-qXaLNn0tLZbfFZeM1OpVI) bieten viele Ansatzpunkte für unsere Politik, welche Menschen verbinden und nicht trennen soll.
+
+Nun ist es an uns, den Rahmen mit Inhalt zu füllen und auch das Konzept des Holismus tiefergehend zu studieren, ohne andere Perspektiven auszuschließen.
