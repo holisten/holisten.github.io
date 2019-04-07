@@ -24,7 +24,7 @@ Stellvertretender Vorsitzender: Markus Kolley
 
 Schatzmeister: Jerome Neumann Dobus
 
-Stellvertretender Schatzmeisterin: Anna Marie Sabi
+Stellvertretende Schatzmeisterin: Anna Marie Sabi
 
 
 Kontakt: info@holisten.de
