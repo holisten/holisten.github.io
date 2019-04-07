@@ -3,5 +3,29 @@ title: Impressum
 layout: posts
 permalink: /site/impressum/
 ---
-# Impressum
-usw ...
+## Impressum
+die Holisten Partei
+
+E-Mail: info@holisten.de
+
+
+##### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
+die Holisten Partei Vorstand
+
+info@holisten.de
+
+
+
+#### Die Holisten Partei
+
+Vorsitzender: Till Flüchter
+
+Stellvertretender Vorsitzender: Markus Kolley
+
+Schatzmeister: Jerome Neumann Dobus
+
+Stellvertretender Schatzmeisterin: Anna Marie Sabi
+
+
+Kontakt: info@holisten.de
+

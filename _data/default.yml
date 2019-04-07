@@ -7,31 +7,21 @@ nav:
     url: 'recklinghausen/'
   - title: Europa
     url: 'europa/'
-  - title: Welt
-    url: 'welt/'
   - title: Partei
     url: 'partei/'
   - title: Themen
     url: 'themen/'
-  - title: Aktuelles
-    url: 'aktuelles/'
 
 copyright: Copyright &copy; die Holisten 2019
 
 social-buttons:
-  - icon: fab fa-twitter
-    url: '#' 
   - icon: fab fa-facebook
     url: 'https://www.facebook.com/dieholisten/'
-  - icon: fab fa-youtube
-    url: '#'
   - icon: fab fa-instagram
-    url: '#'
+    url: 'https://www.instagram.com/die_holisten/'
 
 quicklinks:
-  - title: Kontakt
-    url: '/site/kontakt/'
   - title: Datenschutz
     url: '/site/datenschutz/'
-  - title: Impressum
+  - title: Kontakt & Impressum
     url: '/site/impressum/'

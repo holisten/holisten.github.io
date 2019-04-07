@@ -20,7 +20,6 @@ services:
     - icon: fas fa-globe
       heading: Welt
       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
-      url: /welt/
 
 portfolio:
   heading: Themen

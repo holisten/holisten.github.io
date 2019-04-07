@@ -38,7 +38,10 @@ layout: default
               <i class="{{ service.icon }} fa-stack-1x fa-inverse"></i>
             </span>
             <h4 class="service-heading">{{ service.heading }}</h4>
-            <p>{{ service.text }} <a href="{{service.url}}">Mehr ...</a></p>
+            <p>{{ service.text }} 
+                {% if service.url %}
+              <a href="{{service.url}}">Mehr</a></p>
+              {% endif %}
           </div>
           {%- endfor -%}
         {% assign ws = '' %}
