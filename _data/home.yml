@@ -15,7 +15,7 @@ services:
       url: /recklinghausen/
     - icon: fas fa-globe-europe
       heading: Europa
-      text: 
+      text: "Einheit durch Vielfalt: In Europa gemeinsam Verantwortung übernehmen"
       url: /europa/
     - icon: fas fa-globe
       heading: Welt
