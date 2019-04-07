@@ -1,11 +1,16 @@
 ---
 title: Partei
 description: die Holisten Partei. Infos und mehr.
-tags: [keyword1, keyword2, keyword3]
+tags:
+- keyword1
+- keyword2
+- keyword3
 layout: posts
-permalink: /partei/
+permalink: "/partei/"
+
 ---
 Hier ist das [Parteiprogramm](/partei/programm/) der Holisten
+
 ## Ausgangslage, Motivation
 
 Die Welt war noch nie potentiell so gut vernetzt wie heute. Gleichzeitig gibt es
@@ -31,3 +36,5 @@ Förderung des lokalen Lowtech-Handwerks sowie der forschungsnahen
 Hightech-Innovation, Dialog und Diskurs mit allen Parteien, Wissenstransfer,
 interdisziplinäre Netzwerke, Verknüpfung einzelner Wissensinseln wollen die
 Holisten das Gesamtwohl der Menschen im Auge haben.
+
+[Kontakte und Impressum](http://holisten.de/site/impressum/)
