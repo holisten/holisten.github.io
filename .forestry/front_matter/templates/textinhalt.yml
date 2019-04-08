@@ -33,3 +33,7 @@ fields:
   config:
     time_format: HH:mm:ss
     date_format: DD.MM.YYYY
+- type: text
+  name: author
+  label: Autor
+  description: Alternativ. Wird nur angezeigt, wenn gefüllt
