@@ -5,7 +5,7 @@ email: info@holisten.de
 description: >- # this means to ignore newlines until "baseurl:"
   die Holisten Partei aus Recklinghausen
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://holisten.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://holisten.de" # the base hostname & protocol for your site, e.g. http://example.com
 assets_path: 'assets/'
 sass:
   style: compressed

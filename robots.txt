@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: /
+Disallow: /welt/
+Disallow: /aktuelles/
+Sitemap: https://holisten.de/sitemap.xml
