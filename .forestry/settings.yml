@@ -15,6 +15,8 @@ sections:
 - type: jekyll-posts
   label: News-Artikel
   create: all
+  templates:
+  - neuer-news-eintrag
 - type: directory
   path: _projects
   label: Themen
