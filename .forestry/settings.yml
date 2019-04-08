@@ -50,9 +50,10 @@ sections:
   match: "**/*"
   templates:
   - textinhalt
-- type: document
-  path: _data/home.yml
-  label: Daten Startseite
+- type: directory
+  path: _data
+  label: Daten Startseite !
+  create: none
   match: "**/*"
 upload_dir: assets/img/content
 public_path: "/assets/img/content"
