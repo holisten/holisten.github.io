@@ -2,9 +2,10 @@
 title: Europa
 description: die Holisten aktiv in Europa
 tags:
-- keyword1
-- keyword2
-- keyword3
+- holisten
+- europa
+- wahlen
+- recklinghausen
 layout: posts
 permalink: "/europa/"
 
@@ -19,7 +20,7 @@ Die Frage nach Europa bedeutet auch die Frage nach unserer Identität. Nur durch
 
 Aufgrund von Geschichte und aktuellen globalen Verflechtungen trägt Europa eine besondere Verantwortung für das bestehende Ungleichgewicht auf der Welt. Daher brauchen wir auf europäischer Ebene Handlungsbereitschaft, um ausbeuterische Systeme innerhalb und außerhalb Europas in einen gerechteren Zustand zu transformieren.
 
-Nur durch Einheit durch Vielfalt kann Europa gemeinsam Verantwortung für die Welt übernehmen, Ideale der Aufklärung verwirklichen und gleichzeitig im Austausch mit allen Weltbürgern den eigenen Europazentrismus überwinden.
+Nur durch Einheit durch Vielfalt kann Europa gemeinsam Verantwortung für die Welt übernehmen, Ideale der Aufklärung verwirklichen und gleichzeitig im Austausch mit allen Weltbürgern den eigenen Eurozentrismus überwinden.
 
 Demokratie ist ein großes Wort und auch eine große globale Herausforderung.
 
