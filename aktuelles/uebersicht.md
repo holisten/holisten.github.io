@@ -1,7 +1,14 @@
 ---
 title: Aktuelles
 description: Aktuelles über die Holisten Partei
-tags: [keyword1, keyword2, keyword3]
+tags:
+- news
+- aktuelles
+- holisten
+- partei
+- neuigkeiten
+- blog
 layout: aktuelles
-permalink: /aktuelles/
+permalink: "/aktuelles/"
+
 ---
