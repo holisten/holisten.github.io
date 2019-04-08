@@ -30,3 +30,6 @@ fields:
   name: date
   label: Datum
   description: Datum ist alternativ. Wird nur angezeigt, wenn ausgefüllt
+  config:
+    time_format: HH:mm:ss
+    date_format: DD.MM.YYYY
