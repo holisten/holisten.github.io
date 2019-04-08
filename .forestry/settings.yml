@@ -55,7 +55,7 @@ sections:
   label: Daten Startseite !
   create: none
   match: "**/*"
-upload_dir: assets/img/themen
+upload_dir: assets/img/content
 public_path: assets/img/themen
 front_matter_path: ''
 use_front_matter_path: false
