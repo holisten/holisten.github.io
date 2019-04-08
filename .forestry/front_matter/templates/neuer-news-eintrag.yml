@@ -51,5 +51,3 @@ fields:
   description: Bild für den Beitrag
   config:
     maxSize: '1'
-pages:
-- _posts/test.md
