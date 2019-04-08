@@ -1,12 +1,18 @@
 ---
 title: Parteiprogramm
 description: das Parteiprogramm der Holisten
-tags: [keyword1, keyword2, keyword3]
+tags:
+- partei
+- programm
+- parteiprogramm
+- holisten
+- konzept
+- themen
 layout: posts
 parent: partei
-permalink: /partei/programm/
----
+permalink: "/partei/programm/"
 
+---
 > Stand: 12.03.2019
 
 
