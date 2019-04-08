@@ -12,15 +12,15 @@ fields:
   label: Beschreibung unter dem Bild auf der Startseite
   config:
     required: true
-- type: list
-  name: tags
-  label: tags
 - type: file
   name: thumbnail
   label: Bild für Thema auf der Startseite
   config:
     maxSize: '1'
   description: Max ca. 400x400px
+- type: list
+  name: tags
+  label: tags
 - type: text
   name: layout
   label: layout
