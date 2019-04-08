@@ -26,6 +26,12 @@ fields:
     required: true
     time_format: HH:mm:ss
   default: ''
+- type: file
+  name: image
+  label: Beitragsbild
+  description: Optimal was mit 400x ... px. Bild für den Beitrag
+  config:
+    maxSize: '1'
 - type: list
   name: tags
   label: tags
@@ -45,9 +51,3 @@ fields:
     required: true
 - type: datetime
   name: ''
-- type: file
-  name: image
-  label: Beitragsbild
-  description: Bild für den Beitrag
-  config:
-    maxSize: '1'
