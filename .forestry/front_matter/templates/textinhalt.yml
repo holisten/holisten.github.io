@@ -1,19 +1,28 @@
 ---
-label: Textinhalt
+label: Inhalte
 hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Titel
+  config:
+    required: true
 - type: text
   name: description
-  label: description
+  label: Beschreibung
+- type: text
+  name: layout
+  label: layout
+  default: posts
+  hidden: true
+  config:
+    required: true
 - type: list
   name: tags
   label: tags
 - type: text
-  name: layout
-  label: layout
-- type: text
   name: permalink
-  label: permalink
+  label: Link zu der Seite
+  description: 'Für neue Seiten Beispiel: europa/'
+  config:
+    required: true
