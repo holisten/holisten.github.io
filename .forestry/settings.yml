@@ -22,12 +22,26 @@ sections:
   templates:
   - neues-thema-vorlage
 - type: directory
+  path: recklinghausen
+  label: Recklinghausen
+  create: documents
+  match: "**/*"
+  templates:
+  - textinhalt
+- type: directory
   path: europa
   label: Europa
   create: documents
   match: "**/*"
   templates:
   - textinhalt
+  - textinhalt
+- type: directory
+  path: welt
+  label: Welt
+  create: documents
+  match: "**/*"
+  templates:
   - textinhalt
 upload_dir: assets/img/content
 public_path: "/assets/img/content"
