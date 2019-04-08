@@ -1,24 +1,59 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
+admin_path: ''
 webhook_url: 
 sections:
 - type: directory
   path: partei
-  label: Partei
-  create: all
+  label: Partei & Programm
+  create: none
   match: "**/*"
-- type: jekyll-pages
-  label: Pages
-  create: all
 - type: jekyll-posts
   label: News-Artikel
-  create: all
+  create: documents
+  templates:
+  - neuer-news-eintrag
 - type: directory
   path: _projects
   label: Themen
-  create: all
+  create: documents
+  match: "**/*"
+  templates:
+  - neues-thema-vorlage
+- type: directory
+  path: recklinghausen
+  label: Recklinghausen
+  create: none
+  match: "**/*"
+  templates:
+  - textinhalt
+- type: directory
+  path: europa
+  label: Europa
+  create: none
+  match: "**/*"
+  templates:
+  - textinhalt
+  - textinhalt
+- type: directory
+  path: welt
+  label: Welt
+  create: none
+  match: "**/*"
+  templates:
+  - textinhalt
+- type: directory
+  path: site
+  label: Datenschutz & Impressum & Kontakt
+  create: none
+  match: "**/*"
+  templates:
+  - textinhalt
+- type: directory
+  path: _data
+  label: Daten Startseite !
+  create: none
   match: "**/*"
 upload_dir: assets/img/content
 public_path: "/assets/img/content"

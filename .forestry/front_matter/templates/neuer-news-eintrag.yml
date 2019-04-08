@@ -27,7 +27,7 @@ fields:
     time_format: HH:mm:ss
   default: ''
 - type: file
-  name: image
+  name: thumbnail
   label: Beitragsbild
   description: Optimal was mit 400x ... px. Bild für den Beitrag
   config:
@@ -49,5 +49,3 @@ fields:
   hidden: true
   config:
     required: true
-- type: datetime
-  name: ''

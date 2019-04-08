@@ -1,21 +1,47 @@
 ---
-label: Textinhalt
+label: Inhalte
 hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Titel
+  config:
+    required: true
 - type: text
   name: description
-  label: description
+  label: Beschreibung
+  config:
+    required: true
+- type: text
+  name: layout
+  label: layout
+  default: posts
+  hidden: true
+  config:
+    required: true
 - type: list
   name: tags
   label: tags
 - type: text
-  name: layout
-  label: layout
-- type: text
   name: permalink
-  label: permalink
-pages:
-- europa/europa.md
+  label: Link zu der Seite
+  description: 'Im Europa Ordern z.B.: /europa/'
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Datum
+  description: Datum ist alternativ. Wird nur angezeigt, wenn ausgefüllt
+  config:
+    time_format: HH:mm:ss
+    date_format: DD.MM.YYYY
+- type: text
+  name: author
+  label: Autor
+  description: Alternativ. Wird nur angezeigt, wenn gefüllt
+- type: file
+  name: thumbnail
+  label: Bild
+  description: Alternativ. Bild für den Beitrag (wird oben angezeigt) im Standard-Format.
+  config:
+    maxSize: '1'
