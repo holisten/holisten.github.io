@@ -51,7 +51,7 @@ sections:
   templates:
   - textinhalt
 - type: document
-  path: _data
+  path: _data/home.yml
   label: Daten Startseite
   match: "**/*"
 upload_dir: assets/img/content
