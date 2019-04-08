@@ -50,6 +50,10 @@ sections:
   match: "**/*"
   templates:
   - textinhalt
+- type: document
+  path: _data
+  label: Daten Startseite
+  match: "**/*"
 upload_dir: assets/img/content
 public_path: "/assets/img/content"
 front_matter_path: ''
