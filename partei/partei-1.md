@@ -10,7 +10,7 @@ permalink: "/partei/"
 published: false
 
 ---
-Hier ist das [Parteiprogramm](/partei/programm/) der Holisteng
+Hier ist das [Parteiprogramm](/partei/programm/) der Holisten
 
 ## Ausgangslage, Motivation
 
@@ -38,8 +38,9 @@ Hightech-Innovation, Dialog und Diskurs mit allen Parteien, Wissenstransfer,
 interdisziplinäre Netzwerke, Verknüpfung einzelner Wissensinseln wollen die
 Holisten das Gesamtwohl der Menschen im Auge haben.
 
-##   
-Holismus 
+## 
+
+Holismus
 
 #### Holismus Definition
 
