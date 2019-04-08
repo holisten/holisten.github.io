@@ -19,7 +19,7 @@ fields:
     required: true
 - type: datetime
   name: date
-  label: date
+  label: Datum
   description: Datum
   config:
     date_format: DD.MM.YYYY
