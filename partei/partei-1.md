@@ -2,9 +2,12 @@
 title: Partei
 description: die Holisten Partei. Infos und mehr.
 tags:
-- keyword1
-- keyword2
-- keyword3
+- holisten
+- partei
+- ausgangslage
+- motivation
+- parteiprogramm
+- programm
 layout: posts
 permalink: "/partei/"
 published: false
