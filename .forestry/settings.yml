@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: partei
   label: Partei & Programm
-  create: documents
+  create: none
   match: "**/*"
 - type: jekyll-posts
   label: News-Artikel
@@ -24,14 +24,14 @@ sections:
 - type: directory
   path: recklinghausen
   label: Recklinghausen
-  create: documents
+  create: none
   match: "**/*"
   templates:
   - textinhalt
 - type: directory
   path: europa
   label: Europa
-  create: documents
+  create: none
   match: "**/*"
   templates:
   - textinhalt
@@ -39,7 +39,14 @@ sections:
 - type: directory
   path: welt
   label: Welt
-  create: documents
+  create: none
+  match: "**/*"
+  templates:
+  - textinhalt
+- type: directory
+  path: site
+  label: Datenschutz & Impressum & Kontakt
+  create: none
   match: "**/*"
   templates:
   - textinhalt
