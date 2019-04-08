@@ -23,6 +23,10 @@ fields:
 - type: text
   name: permalink
   label: Link zu der Seite
-  description: 'Für neue Seiten Beispiel: europa/'
+  description: 'Im Europa Ordern z.B.: /europa/'
   config:
     required: true
+- type: datetime
+  name: date
+  label: Datum
+  description: Datum ist alternativ. Wird nur angezeigt, wenn ausgefüllt
