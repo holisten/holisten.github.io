@@ -1,4 +1,6 @@
 ---
 layout: home
-tags: [keyword1, keyword2, keyword3]
+tags:
+- keyword1
+
 ---
