@@ -4,22 +4,30 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Titel für SEO
+  config:
+    required: true
+- type: text
+  name: client
+  label: Titel unter dem Bild auf der Startseite
 - type: text
   name: description
-  label: description
+  label: Beschreibung unter dem Bild auf der Startseite
+  config:
+    required: true
+- type: text
+  name: category
+  label: category
 - type: list
   name: tags
   label: tags
 - type: file
   name: thumbnail
-  label: thumbnail
-- type: text
-  name: client
-  label: client
-- type: text
-  name: category
-  label: category
+  label: Bild für Thema auf der Startseite
+  config:
+    maxSize: '1'
+  description: Max ca. 400x400px
 - type: text
   name: layout
   label: layout
+  default: posts
