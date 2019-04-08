@@ -17,11 +17,15 @@ fields:
   label: author
   config:
     required: true
-- type: text
+- type: datetime
   name: date
   label: date
+  description: Datum
   config:
+    date_format: DD.MM.YYYY
     required: true
+    time_format: HH:mm:ss
+  default: 2019-04-23 15:01:00 +0000
 - type: list
   name: tags
   label: tags
@@ -39,3 +43,5 @@ fields:
   hidden: true
   config:
     required: true
+- type: datetime
+  name: ''
