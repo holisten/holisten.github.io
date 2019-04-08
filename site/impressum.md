@@ -1,7 +1,8 @@
 ---
-title: Impressum
+title: Kontakt & Impressum
 layout: posts
-permalink: /site/impressum/
+permalink: "/site/impressum/"
+
 ---
 ## Impressum
 die Holisten Partei
@@ -28,4 +29,3 @@ Stellvertretende Schatzmeisterin: Anna Marie Sabi
 
 
 Kontakt: info@holisten.de
-
