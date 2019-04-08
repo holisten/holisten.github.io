@@ -2,6 +2,10 @@
 layout: default
 ---
 <div class="container">
-    {{ post.date | date: "%d.%m.%Y"}}
+    {% assign author = page.author %}
+    {% assign date = page.date %}
+    {% if author and date %}
+        <p class="text-right font-weight-light font-italic">Von {{ author }} - {{ date | date: '%d.%m.%Y' }}</p>
+    {% endif %}
     {{content}}
 </div>
