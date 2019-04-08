@@ -1,20 +1,16 @@
 ---
-title: Erster offizieller Parteitag
-description: Erster offizieller Parteitag der Holisten
+title: Richtigstellung zum Zeitungsartikel vom 08.04.19
+description: Eine Richtigstellung meinerseits
 tags:
-- keyword1
-- keyword2
-- keyword3
+- recklinghause
+- zeitung
+- tesche
+- bürgermeister
+- allgemeine
 layout: posts
 parent: aktuelles
 
 ---
-## Erster offizieller Parteitag der Holisten
+## Richtigstellung zum Zeitungsartikel vom 08.04.19
 
-Lorem markdownum coloni. Honoris ille quam non gutture, **illo** aegra totosque
-Agaue mea ubi **petebat erat**, apta costas. Qui satis de consurgit quosque; sed
-quod massa verecundo.
-
-Furor incipere monstrare excidit, praecinctus [letiferam vacarunt
-bracchia](http://google.de), amplectitur avido, obsisto, qua. Sucosque Aeacus
-tantum, seque, nec non insons illi pendeat, et.
+...
