@@ -48,15 +48,15 @@ Holismus ist ein vielseitiger Begriff mit verschieden Interpretationen
 
 [de.wikipedia.org](https://de.wikipedia.org/wiki/Holismus "Wikipedia")
 
-[https://hbdm.ch/index.php/philosophie.html](https://de.wikipedia.org/wiki/Holismus "https://de.wikipedia.org/wiki/Holismus")
+[https://hbdm.ch/index.php/philosophie.html](https://hbdm.ch/index.php/philosophie.html "https://de.wikipedia.org/wiki/Holismus")
 
-[https://www.unil.ch/files/live/sites/philo/files/shared/DocsPerso/EsfeldMichael/2003/Bergs_Curdts03.pdf](https://de.wikipedia.org/wiki/Holismus "https://de.wikipedia.org/wiki/Holismus")
+[https://www.unil.ch/files/live/sites/philo/files/shared/DocsPerso/EsfeldMichael/2003/Bergs_Curdts03.pdf](https://www.unil.ch/files/live/sites/philo/files/shared/DocsPerso/EsfeldMichael/2003/Bergs_Curdts03.pdf "https://de.wikipedia.org/wiki/Holismus")
 
-[https://lexikon.stangl.eu/5394/holismus/](https://de.wikipedia.org/wiki/Holismus "https://de.wikipedia.org/wiki/Holismus")
+[https://lexikon.stangl.eu/5394/holismus/](https://lexikon.stangl.eu/5394/holismus/ "https://de.wikipedia.org/wiki/Holismus")
 
-[https://philpapers.org/rec/ESTQAH](https://de.wikipedia.org/wiki/Holismus "https://de.wikipedia.org/wiki/Holismus")
+[https://philpapers.org/rec/ESTQAH](https://philpapers.org/rec/ESTQAH "https://de.wikipedia.org/wiki/Holismus")
 
-[https://de.wikipedia.org/wiki/Dirk_Gentlys_holistische_Detektei](https://de.wikipedia.org/wiki/Holismus "https://de.wikipedia.org/wiki/Holismus")
+[https://de.wikipedia.org/wiki/Dirk_Gentlys_holistische_Detektei](https://de.wikipedia.org/wiki/Dirk_Gentlys_holistische_Detektei "https://de.wikipedia.org/wiki/Holismus")
 
 #### Was bedeutet Holismus für uns im Moment
 
