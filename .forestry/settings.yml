@@ -21,6 +21,14 @@ sections:
   match: "**/*"
   templates:
   - neues-thema-vorlage
+- type: directory
+  path: europa
+  label: Europa
+  create: documents
+  match: "**/*"
+  templates:
+  - textinhalt
+  - textinhalt
 upload_dir: assets/img/content
 public_path: "/assets/img/content"
 front_matter_path: ''
