@@ -1,0 +1,25 @@
+---
+label: Neuer News Eintrag
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: parent
+  label: parent
+- type: text
+  name: author
+  label: author
+- type: text
+  name: date
+  label: date
