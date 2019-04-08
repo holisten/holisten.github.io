@@ -45,3 +45,5 @@ fields:
     required: true
 - type: datetime
   name: ''
+pages:
+- _posts/test.md
