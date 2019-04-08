@@ -5,21 +5,44 @@ fields:
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: text
   name: description
   label: description
+  config:
+    required: true
+- type: text
+  name: author
+  label: author
+  config:
+    required: true
+- type: text
+  name: date
+  label: date
+  config:
+    required: true
 - type: list
   name: tags
   label: tags
 - type: text
   name: layout
   label: layout
+  hidden: true
+  config:
+    required: true
+  default: posts
 - type: text
   name: parent
   label: parent
-- type: text
-  name: author
-  label: author
-- type: text
-  name: date
-  label: date
+  default: aktuelles
+  hidden: true
+  config:
+    required: true
+- type: select
+  name: image
+  config:
+    source:
+      type: documents
+  label: Image
+  description: Image für den Post
