@@ -1,6 +1,6 @@
 ---
 title: Kontakt & Impressum
-layout: posts
+layout: page
 permalink: "/site/impressum/"
 
 ---

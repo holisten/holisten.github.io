@@ -6,6 +6,8 @@ layout: default
     {% assign date = page.date %}
     {% if author and date %}
         <p class="text-right font-weight-light font-italic">Von {{ author }} - {{ date | date: '%d.%m.%Y' }}</p>
+    {% else if date %}
+        <p class="text-right font-weight-light font-italic">{{ date | date: '%d.%m.%Y' }}</p>
     {% endif %}
     {{content}}
 </div>

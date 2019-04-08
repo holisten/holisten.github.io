@@ -1,6 +1,6 @@
 ---
 title: Datenschutz
-layout: posts
+layout: page
 permalink: /site/datenschutz/
 ---
 ## Datenschutzerklärung

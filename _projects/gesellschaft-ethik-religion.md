@@ -5,7 +5,7 @@ tags: [keyword1, keyword2, keyword3]
 thumbnail: img/themen/gesellschaft-ethik-religion.png
 client: Gesellschaft, Ethik, Religion
 category: Menschen verbinden und globale ethische Weisheit lokal umsetzen
-layout: posts
+layout: page
 ---
 ## Gesellschaft, Ethik, Religion
 

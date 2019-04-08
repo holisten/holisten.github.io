@@ -9,7 +9,7 @@ tags:
 thumbnail: img/themen/lokal-kommunalpolitik.png
 client: Lokal- Kommunalpolitik Recklinghausen
 category: Auch eine lange Reise beginnt mit einem kleinen Schritt.
-layout: posts
+layout: page
 
 ---
 ## Lokal- Kommunalpolitik Recklinghausen

@@ -5,7 +5,7 @@ tags: [keyword1, keyword2, keyword3]
 thumbnail: img/themen/natur-umwelt.png
 client: Natur und Umwelt
 category: Natürliches Gleichgewicht mit nachhaltigem Synergieeffekt für Mensch und Natur ermöglichen
-layout: posts
+layout: page
 ---
 ## Natur und Umwelt
 
