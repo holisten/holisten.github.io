@@ -45,5 +45,11 @@ fields:
     required: true
 - type: datetime
   name: ''
+- type: file
+  name: image
+  label: Beitragsbild
+  description: Bild für den Beitrag
+  config:
+    maxSize: '1'
 pages:
 - _posts/test.md
