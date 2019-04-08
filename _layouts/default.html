@@ -5,6 +5,9 @@
     <meta charset="utf-8">
     {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    {%if page.thumbnail %}
+    <meta property="og:image" content="{{site.url}}/assets/{{page.thumbnail}}">
+    {%endif %}
     {%if page.tags %}
     <meta name="keywords" content="{{ page.tags | join: ', ' | escape }}"/>
     {%endif %}
