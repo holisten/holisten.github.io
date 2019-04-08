@@ -4,20 +4,14 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: Titel für SEO
+  label: Titel unter dem Bild auf der Startseite
   config:
     required: true
-- type: text
-  name: client
-  label: Titel unter dem Bild auf der Startseite
 - type: text
   name: description
   label: Beschreibung unter dem Bild auf der Startseite
   config:
     required: true
-- type: text
-  name: category
-  label: category
 - type: list
   name: tags
   label: tags
@@ -30,4 +24,7 @@ fields:
 - type: text
   name: layout
   label: layout
-  default: posts
+  default: page
+  hidden: true
+  config:
+    required: true
