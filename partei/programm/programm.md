@@ -11,7 +11,7 @@ tags:
 layout: posts
 parent: partei
 permalink: "/partei/programm/"
-date: ''
+date: 12.03.2019
 author: Die Holisten Partei
 
 ---
