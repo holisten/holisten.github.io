@@ -37,3 +37,9 @@ fields:
   name: author
   label: Autor
   description: Alternativ. Wird nur angezeigt, wenn gefüllt
+- type: file
+  name: thumbnail
+  label: Bild
+  description: Alternativ. Bild für den Beitrag (wird oben angezeigt) im Standard-Format.
+  config:
+    maxSize: '1'
