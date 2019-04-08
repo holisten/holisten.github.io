@@ -39,10 +39,3 @@ fields:
   hidden: true
   config:
     required: true
-- type: select
-  name: image
-  config:
-    source:
-      type: documents
-  label: Image
-  description: Image für den Post
