@@ -11,13 +11,13 @@ sections:
   match: "**/*"
 - type: jekyll-posts
   label: News-Artikel
-  create: all
+  create: documents
   templates:
   - neuer-news-eintrag
 - type: directory
   path: _projects
   label: Themen
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - neues-thema-vorlage
