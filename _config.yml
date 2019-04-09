@@ -13,7 +13,7 @@ sass:
 collections:
   projects:
     output: true
-    permalink: /themen/:name
+    permalink: /themen/:name/
 twitter:
   username: "@dieholisten"
 social:
@@ -33,4 +33,4 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-seo-tag
-permalink: /aktuelles/:year-:month-:day-:title:output_ext
+permalink: /aktuelles/:year-:month-:day-:title:output_ext/
