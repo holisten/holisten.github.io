@@ -11,7 +11,7 @@ layout: posts
 permalink: "/recklinghausen/"
 
 ---
-Die .Stadt Recklinghausen ist im Jahre 2017, 1000 Jahre alt geworden.
+Die Stadt Recklinghausen ist im Jahre 2017, 1000 Jahre alt geworden.
 
 1000 Jahre sind eine lange Zeit, um eine Stadt, eine Gemeinschaft und eine Heimat für Menschen zu sein. In diesen Jahrhunderten hat Recklinghausen sein Gesicht häufig gewechselt und es dabei geschafft, sich immer neu zu erfinden. Brände, Kriege, Armut und die unerschöpfliche Macht der Zeit haben Spuren Hinterlassen und doch nie geschafft, diesen ganz besonderen Schlag Menschen, der sich selbst Recklinghäuser nennt, von hier zu vertreiben.
 
