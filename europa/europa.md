@@ -14,7 +14,7 @@ Lieber Demos, zu dem auch wir gehören,
 
 weil die Frist zu knapp war wird es am 26.05.2019 keine Kandidatur der Holisten (Partei für holistische Demokratie) bei der Europawahl geben. Trotzdem möchte wir als neue Partei einige kurze Gedanken zu Europa und eine Wahlempfehlung für die kommende Europawahl veröffentlichen.
 
-Als Individuen sind wir alle Teil von größeren Zusammenhängen. Auch die größten Nationen bestehen aus kleinsten Atomen. Als Recklinghäuser sind wir Teil des Ruhrgebiets, Deutschlands, Europas und der Welt, welche fließend ineinanderlaufen. 
+Als Individuen sind wir alle Teil von größeren Zusammenhängen. Auch die größten Nationen bestehen aus kleinsten Atomen. Als Recklinghäuser sind wir Teil des Ruhrgebiets, Deutschlands, Europas und der Welt, welche fließend ineinanderlaufen.
 
 Die Frage nach Europa bedeutet auch die Frage nach unserer Identität. Nur durch die einzigartigen Atome können auch größere Gemeinschaften bestehen. Ohne die Menschen, die Städte, die Regionen und Länder gäbe es kein Europa und auch das höchste Ziel, das globale Handlungsbewusstsein der Menschheit wäre nicht möglich.
 
