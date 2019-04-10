@@ -3,9 +3,15 @@ title: Lokal- Kommunalpolitik Recklinghausen
 description: 'Lokal- Kommunalpolitik Recklinghausen: Auch eine lange Reise beginnt
   mit einem kleinen Schritt'
 tags:
-- keyword1
-- keyword2
-- keyword3
+- 'Lokal
+
+'
+- 'Kommunal
+
+'
+- 'Recklinghasuen
+
+'
 thumbnail: img/themen/lokal-kommunalpolitik.png
 client: Lokal- Kommunalpolitik Recklinghausen
 category: Auch eine lange Reise beginnt mit einem kleinen Schritt.
@@ -30,5 +36,3 @@ Auch eine lange Reise beginnt mit einem kleinen Schritt.
 * Verbindung zu anderen Städten ausbauen; das gute Netzwerk
   Recklinghausens beibehalten und vor allem für Schüler_innen-,
   Student_innen-, Ausbildungs-, Arbeitsaustausch weiterentwickeln
-
-![](assets/img/themen/Rathhaus.jpg)
