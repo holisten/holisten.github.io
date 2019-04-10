@@ -36,3 +36,5 @@ Auch eine lange Reise beginnt mit einem kleinen Schritt.
 * Verbindung zu anderen Städten ausbauen; das gute Netzwerk
   Recklinghausens beibehalten und vor allem für Schüler_innen-,
   Student_innen-, Ausbildungs-, Arbeitsaustausch weiterentwickeln
+
+![](assets/img/content/Rathhaus.jpg)
