@@ -30,5 +30,3 @@ layout: page
 * Aufklärung der Wähler*innen über die politischen Geschehnisse
 * Die Finanzen, Ziele und Rhetorik der ´Holisten´ sollen möglichst
   transparent sein
-
-![](https://holisten.de/assets/img/content/Rathhaus.jpg)
