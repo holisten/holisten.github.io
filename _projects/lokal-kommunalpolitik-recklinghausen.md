@@ -28,5 +28,7 @@ Auch eine lange Reise beginnt mit einem kleinen Schritt.
   * Projekt Bienenautobahn
   * [Aufräumaktion im Stadtgarten](https://www.facebook.com/events/432895460795136/) (erstmalig am 14.04.2019)
 * Verbindung zu anderen Städten ausbauen; das gute Netzwerk
-  Recklinghausens beibehalten und vor allem für Schüler*innen-,
-  Student*innen-, Ausbildungs-, Arbeitsaustausch weiterentwickeln
+  Recklinghausens beibehalten und vor allem für Schüler_innen-,
+  Student_innen-, Ausbildungs-, Arbeitsaustausch weiterentwickeln
+
+![](assets/img/themen/Rathhaus.jpg)
