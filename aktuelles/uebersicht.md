@@ -1,6 +1,6 @@
 ---
 title: Aktuelles
-description: Aktuelles über die Holisten Partei
+description: Aktuelles über die Partei Holistischer Demokratie.
 tags:
 - news
 - aktuelles

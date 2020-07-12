@@ -5,7 +5,7 @@ tags: [keyword1, keyword2, keyword3]
 thumbnail: img/themen/globale-interessen-verantwortungen.png
 client: Globale Interessen und Verantwortungen
 category: Global weitherzig Partei ergreifen und lokale Konflikte gemeinschaftlich lösen
-layout: page
+layout: panel
 ---
 ## Globale Interessen und Verantwortungen
 

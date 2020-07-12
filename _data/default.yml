@@ -1,5 +1,5 @@
 brand:
-  name: die Holisten
+  name: Partei Holistischer Demokratie
 menu-string: Menu
 
 nav:
@@ -12,7 +12,7 @@ nav:
   - title: Themen
     url: 'themen/'
 
-copyright: Copyright &copy; die Holisten 2019
+copyright: Copyright &copy; PHD 2020
 
 social-buttons:
   - icon: fab fa-facebook

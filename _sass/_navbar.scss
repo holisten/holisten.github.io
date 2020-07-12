@@ -1,14 +1,19 @@
 // Styling for the navbar
 #mainNav {
-  background-color: $gray-900;
+  background-color: $white;
+  .phd-logo {
+    display: block;
+    max-height: 70px;
+    padding: 0;
+  }
   .navbar-toggler {
     font-size: 12px;
     right: 0;
     padding: 13px;
     text-transform: uppercase;
-    color: white;
+    color: $gray-800;
     border: 0;
-    background-color: $primary;
+    background-color: $white;
     @include heading-font;
   }
   .navbar-brand {
@@ -29,16 +34,26 @@
         font-weight: 600;
         padding: 0.75em 0;
         letter-spacing: 1px;
-        color: white;
+        color: $gray-800;
         box-shadow: none;
         @include heading-font;
       }
       .nav-link-text {
         &.active,
         &:hover {
-          border-bottom: 2px solid white;
+          border-bottom: 2px solid $gray-800;
         }
       }
+    }
+  }
+  &.navbar-shrink {
+    padding-top: 0;
+    padding-bottom: 0;
+    border-bottom: 1px solid $gray-500;      
+    background-color: $white;
+    .navbar-brand {
+      font-size: 1.25em;
+      padding: 12px 0;
     }
   }
 }
@@ -50,7 +65,6 @@
     -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
     border: none;
-    background-color: $gray-900;
     .navbar-brand {
       font-size: 1.75em;
       -webkit-transition: all 0.3s;
@@ -67,7 +81,8 @@
     &.navbar-shrink {
       padding-top: 0;
       padding-bottom: 0;
-      background-color: $gray-900;
+      border-bottom: 1px solid $gray-500;      
+      background-color: $white;
       .navbar-brand {
         font-size: 1.25em;
         padding: 12px 0;

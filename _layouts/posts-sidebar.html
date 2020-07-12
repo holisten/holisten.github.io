@@ -1,0 +1,44 @@
+---
+layout: default
+---
+<div class="container">
+    <div class="row">
+        <div class="col-md-3 col-sm-12">
+            <div class="sidebar-container" id="sidebar-container">
+                <div class="sidebar-sticky">
+                    {%- for sidebar in site.data.posts-sidebar.sidebars -%}
+                        {% if page.sidebar == sidebar.sidebar %}
+                            {% if page.permalink == sidebar.url %}
+                                <div class="sidebar-title active">
+                                    {{sidebar.name}}
+                                </div>
+                                {% if page.toc and page.h_min and page.h_max %}
+                                    <div class="sidebar-toc">
+                                            {% include toc.html html=content sanitize=true class="inline_toc" id="sidebar-toc" h_min=page.h_min h_max=page.h_max item_class="toc-item" anchor_class="toc-anchor" %}
+                                    </div>
+                                {% endif %}
+                                {% if sidebar.image %}
+                                    {{sidebar.image}}
+                                {% endif %}
+                            {% else if %}   
+                                <div class="sidebar-title">
+                                        <a href="{{sidebar.url}}">{{sidebar.name}}</a>
+                                </div>
+                            {% endif %}
+                        {% endif %}
+                    {%- endfor -%}
+                </div>
+            </div>
+        </div>
+        <div class="col-md-9 col-sm-12">
+                {% assign author = page.author %}
+                {% assign date = page.date %}
+                {% if author and date %}
+                    <p class="text-right font-weight-light font-italic">Von {{ author }} - {{ date | date: '%d.%m.%Y' }}</p>
+                {% else if date %}
+                    <p class="text-right font-weight-light font-italic">{{ date | date: '%d.%m.%Y' }}</p>
+                {% endif %}
+                {{content}}
+        </div>
+    </div>
+</div>

@@ -5,10 +5,8 @@ tags: [keyword1, keyword2, keyword3]
 thumbnail: img/themen/parteipolitisch.png
 client: Parteipolitisch
 category: Wir möchten mit Reflexion, Kooperation und Offenheit im Interesse des Gesamtwohls lösungsorientiert vermitteln
-layout: page
+layout: panel
 ---
-
-## Parteipolitisch
 
 -   Wir streben eine sinnvolle Ämterrotation an
 

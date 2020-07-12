@@ -1,6 +1,6 @@
 ---
 title: Europa
-description: die Holisten aktiv in Europa
+description: Partei Holistischer Demokratie aktiv in Europa
 tags:
 - holisten
 - europa
