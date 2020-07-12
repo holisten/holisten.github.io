@@ -7,7 +7,7 @@ tags:
 - partei
 - lokal
 - vest
-layout: posts-sidebar
+layout: posts
 permalink: "/recklinghausen/"
 sidebar: recklinghausen
 
