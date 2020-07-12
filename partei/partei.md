@@ -1,14 +1,14 @@
 ---
 title: Partei
-description: die Holisten Partei. Infos und mehr.
+description: Partei Holistischer Demokratie.
 tags:
 - Holisten
 - " Motivation"
-layout: posts
+layout: posts-sidebar
 permalink: "/partei/"
-
+sidebar: partei
 ---
-Hier ist das [Parteiprogramm](/partei/programm/) der Holisten
+Hier ist das [Parteiprogramm](/partei/programm/) der Partei Holistischer Demokratie
 
 ## Ausgangslage, Motivation
 
@@ -19,7 +19,7 @@ größere Ungleichgewichte, z.B. zwischen Arm und Reich, ´bildungsnah´ und
 Durch historisch gewachsene sowie systematische soziale Ungerechtigkeit
 vergrößert sich die Kluft zwischen den Menschen und soziale Spannungen steigen.
 
-Das langfristige Ziel der Holisten ist es, dieses Gleichgewicht durch eine
+Das langfristige Ziel der PHD ist es, dieses Gleichgewicht durch eine
 projektorientierte, prozessuale und dynamisch-reflektierte Transformation
 möglichst wiederherzustellen. Die lokalen Akteure sollen dabei mit ihren ´bottom
 up´-Projekten durch den politischen Rahmen gefördert, geschützt und inspiriert
@@ -30,7 +30,7 @@ sind gesamtgesellschaftliche sowie globalmenschliche Bezugspunkte und Ziele
 notwendig. Diese bilden sich zunächst auf kommunaler Ebene, sind jedoch
 gleichzeitig mit gesamtgesellschaftlichen, gesamtmenschlichen Zielen verbunden.
 
-Bei allen Themen, wie Digitalisierung, Umweltbewusstsein, Nachhaltigkeit, Förderung des lokalen Lowtech-Handwerks sowie der forschungsbezogen Hightech-Innovation, Dialog und Diskurs mit allen Parteien, Wissenstransfer, interdisziplinäre Netzwerke, Verknüpfung einzelner Wissensinseln wollen die Holisten das Gesamtwohl der Menschen im Auge haben.
+Bei allen Themen, wie Digitalisierung, Umweltbewusstsein, Nachhaltigkeit, Förderung des lokalen Lowtech-Handwerks sowie der forschungsbezogen Hightech-Innovation, Dialog und Diskurs mit allen Parteien, Wissenstransfer, interdisziplinäre Netzwerke, Verknüpfung einzelner Wissensinseln will die PHD das Gesamtwohl der Menschen im Auge haben.
 
 ### Holismus
 
@@ -60,7 +60,7 @@ Als politischen Holismus verstehen wir die Gesamtheit unsere politischen Ziele, 
 
 Wir wollen Ergebnisorientierte Politik ohne Lagerbildung und in Zusammenarbeit mit allen Demokratischen Kräften zum wohle Aller.
 
-#### Wieso heißen wir die Holisten.
+#### Wieso heißen wir Partei Holistischer Demokratie
 
 Nachdem zahlreiche Namensvorschläge die diskutierten Inhalte und Ziele nicht ganz fassen konnten, wurden spätere Mitglieder der Holisten durch die TV-Serie (Dirk Gentlys holistische Detektei) zu diesem Namen inspiriert. Konzepte des [Holismus](https://de.wikipedia.org/wiki/Holismus?fbclid=IwAR3phRDxFmMKg5husj8iHMu0LyLWRlTgSZ0mV-qXaLNn0tLZbfFZeM1OpVI) bieten viele Ansatzpunkte für unsere Politik, welche Menschen verbinden und nicht trennen soll.
 

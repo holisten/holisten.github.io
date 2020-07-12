@@ -5,7 +5,7 @@ tags: [keyword1, keyword2, keyword3]
 thumbnail: img/themen/bildung-und-forschung.png
 client: Bildung und Forschung
 category: Humanistischen Bildungsidealen im Kontext globaler Innovation frischen Wind einhauchen
-layout: page
+layout: panel
 ---
 
 ## Bildung und Forschung

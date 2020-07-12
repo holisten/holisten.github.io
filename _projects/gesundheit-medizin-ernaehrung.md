@@ -5,7 +5,7 @@ tags: [keyword1, keyword2, keyword3]
 thumbnail: img/themen/gesundheit-medizin-ernaehrung.png
 client: "Gesundheit, Medizin und Ernährung"
 category: "'Sport und Spiel können ein völliger und echter Ersatz für Krieg und Mord sein.' - Albert Schweizer"
-layout: page
+layout: panel
 ---
 ## Gesundheit, Medizin und Ernährung
 

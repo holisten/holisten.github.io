@@ -1,0 +1,15 @@
+sidebars:
+  - sidebar: recklinghausen
+    name: Recklinghausen
+    url: /recklinghausen/
+    image: 
+  - sidebar: recklinghausen
+    name: Bienenautobahn
+    url: /recklinghausen/bienenautobahn/
+  - sidebar: partei
+    name: Über die PHD
+    url: /partei/
+    image: 
+  - sidebar: partei
+    name: Parteiprogramm
+    url: /partei/programm/

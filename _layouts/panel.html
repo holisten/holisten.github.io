@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<div class="panel-container" id="panel-container">
+    <div class="top-container">
+        <h2 class="text-center">{{page.title}}</h2>
+        <p class="text-center font-weight-normal">{{page.description}}</p>
+    </div>
+    <div class="top-line"></div>
+    <div class="container bottom-container">
+        <div class="panel-image">
+            <img class="panel-img img-fluid" src="{{site.url}}/assets/{{ page.thumbnail }}" alt="{{page.title}}">
+        </div>
+        <div class="panel-content">
+                {{content}}
+        </div> 
+    </div>
+</div>

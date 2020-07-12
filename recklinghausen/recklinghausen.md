@@ -1,6 +1,6 @@
 ---
 title: Recklinghausen
-description: die Holisten aktiv in Recklinghausen
+description: Partei Holistischer Demokratie aktiv in Recklinghausen
 tags:
 - recklinghausen
 - holisten
@@ -9,6 +9,7 @@ tags:
 - vest
 layout: posts
 permalink: "/recklinghausen/"
+sidebar: recklinghausen
 
 ---
 Die Stadt Recklinghausen ist im Jahre 2017, 1000 Jahre alt geworden.

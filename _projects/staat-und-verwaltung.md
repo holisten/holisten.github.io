@@ -5,7 +5,7 @@ tags: [keyword1, keyword2, keyword3]
 thumbnail: img/themen/staat-verwaltung.png
 client: Staat und Verwaltung
 category: Wir alle sind der Staat
-layout: page
+layout: panel
 ---
 
 ## Staat und Verwaltung

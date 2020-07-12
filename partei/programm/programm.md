@@ -8,15 +8,19 @@ tags:
 - holisten
 - konzept
 - themen
-layout: posts
+layout: posts-sidebar
 parent: partei
 permalink: "/partei/programm/"
 date: 12.03.2019
-author: Die Holisten Partei
-
+author: Partei Holistischer Demokratie
+sidebar: partei
+toc: true
+h_min: 3
+h_max: 3
 ---
-Parteiprogramm der Partei die Holisten
+Parteiprogramm der Partei Holistischer Demokratie
 ===========================
+{:.no_toc}
 
 τὰ ὄντα ἰέναι τε πάντα καὶ μένειν οὐδέν
 
