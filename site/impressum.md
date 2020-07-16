@@ -5,19 +5,19 @@ permalink: "/site/impressum/"
 
 ---
 ## Impressum
-die Holisten Partei
+Partei Holistischer Demokratie
 
 E-Mail: info@holisten.de
 
 
 ##### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
-die Holisten Partei Vorstand
+Partei Holistischer Demokratie Vorstand
 
 info@holisten.de
 
 
 
-#### Die Holisten Partei
+#### Partei Holistischer Demokratie
 
 Vorsitzender: Till Flüchter
 

@@ -7,6 +7,9 @@
         background: linear-gradient(#00415a,#18479d);
         color: $gray-200;
     }
+    .top-container h2 {
+        font-size: 1.5rem;
+    }
     .bottom-container {
         text-align: center;
     }
@@ -19,6 +22,9 @@
         position: relative;
         z-index: 10;
     }
+    .panel-content h2 {
+        font-size: 1.5rem;
+    }
     .panel-img {
         border-radius: 14px;
         box-shadow: 0 9px 12px 1px rgba(0,0,0,.14), 0 3px 16px 2px rgba(0,0,0,.12), 0 5px 6px 0 rgba(0,0,0,.2);
@@ -26,13 +32,11 @@
         position: relative;
     }
     .top-line {
-        height: 150px;
+        height: 250px;
         background-color: #fff;
-        transform: rotate(-4deg);
         z-index: 1;
         margin-top: -3.5vw;
-        margin-left: -5%;
-        width: 110%;
+        width: 100%;
         position: absolute;
     }
 }
@@ -43,6 +47,22 @@
         }
         .top-container {
             margin-top: -50px;
+        }
+        .panel-content h2 {
+            font-size: 2.5rem;
+        }
+        .top-container h2 {
+            font-size: 2.5rem;
+        }
+        .top-line {
+            height: 250px;
+            background-color: #fff;
+            transform: rotate(-4deg);
+            z-index: 1;
+            margin-top: -3.5vw;
+            margin-left: -5%;
+            width: 110%;
+            position: absolute;
         }
     }
 }

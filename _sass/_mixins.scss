@@ -8,15 +8,30 @@
 }
 
 // Font Mixins
+@font-face {
+  font-family: LemonMilk;
+  src: url("/assets/fonts/LEMONMILK-Regular.woff") format("woff"), url("/assets/fonts/LEMONMILK-Regular.ttf")  format("truetype");
+}
+@font-face {
+  font-family: LemonMilk;
+  font-weight: bold;
+  src: url("/assets/fonts/LEMONMILK-Bold.woff") format("woff"), url("/assets/fonts/LEMONMILK-Bold.ttf")  format("truetype");
+}
+@font-face {
+  font-family: LemonMilk;
+  font-weight: lighter;
+  src: url("/assets/fonts/LEMONMILK-Light.woff") format("woff"), url("/assets/fonts/LEMONMILK-Light.ttf")  format("truetype");
+}
+
 @mixin serif-font {
-  font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'LemonMilk', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 @mixin script-font {
-  font-family: 'Bad Script', 'Helvetica Neue', Helvetica, Arial, cursive;
+  font-family: 'LemonMilk', 'Helvetica Neue', Helvetica, Arial, cursive;
 }
 @mixin body-font {
-  font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'LemonMilk', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 @mixin heading-font {
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'LemonMilk', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }

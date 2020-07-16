@@ -1,6 +1,6 @@
 #news {
     div.news-container {
-        background-color: #ededed;
+        //background-color: #ededed;
         padding: 25px;
         margin-top: 7px;
         div.news-header {
@@ -9,6 +9,10 @@
         div.news-title {
             border-left: 3px solid #333;
             padding-left: 10px;
+            font-size: 1.5rem;
+        }
+        div.news-title h2 {
+            font-size: 1.5rem;
         }
         div.news-more {
             text-align: right;
@@ -17,3 +21,6 @@
         }
     }
 }
+@media(min-width:767px) {
+
+  }

@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<!-- Header -->
+<header class="pagehead">
+    <div class="container">
+        <div class="intro-text">
+        <div class="intro-heading text-uppercase">{{ page.title }}</div>
+        </div>
+    </div>
+</header>
+<div class="container">
+    {% assign author = page.author %}
+    {% assign date = page.date %}
+    {% if author and date %}
+        <p class="text-right font-weight-light font-italic">Von {{ author }} - {{ date | date: '%d.%m.%Y' }}</p>
+    {% else if date %}
+        <p class="text-right font-weight-light font-italic">{{ date | date: '%d.%m.%Y' }}</p>
+    {% endif %}
+    {{content}}
+</div>

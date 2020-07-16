@@ -5,8 +5,6 @@ menu-string: Menu
 nav:
   - title: Recklinghausen
     url: 'recklinghausen/'
-  - title: Europa
-    url: 'europa/'
   - title: Partei
     url: 'partei/'
   - title: Themen
@@ -18,7 +16,7 @@ social-buttons:
   - icon: fab fa-facebook
     url: 'https://www.facebook.com/dieholisten/'
   - icon: fab fa-instagram
-    url: 'https://www.instagram.com/die_holisten/'
+    url: 'https://www.instagram.com/phd_recklinghausen/'
 
 quicklinks:
   - title: Datenschutz
