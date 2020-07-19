@@ -1,7 +1,6 @@
 ---
 title: Lokal- Kommunalpolitik Recklinghausen
-description: 'Lokal- Kommunalpolitik Recklinghausen: Auch eine lange Reise beginnt
-  mit einem kleinen Schritt'
+description: 'Auch eine lange Reise beginnt mit einem kleinen Schritt'
 tags:
 - 'Lokal
 

@@ -7,7 +7,7 @@ tags:
 - partei
 - lokal
 - vest
-layout: posts
+layout: posts-header
 permalink: "/recklinghausen/"
 sidebar: recklinghausen
 
@@ -22,4 +22,4 @@ Das Vest Recklinghausen (ausgesprochen: Fest Recklinghausen) ist die Bezeichnung
 
 Das größte Wachstum kam indes ab 1869 durch den Bergbau. Mit der Industrialisierung begann die Migration, die bis heute anhält. Jede Generation war vor neue Probleme gestellt, von denen einige noch zu lösen sind.
 
-Unsere Politischen Ziele für [Recklinghausen ](http://holisten.de/themen/lokal-kommunalpolitik-recklinghausen) sind es, dieser einzigartigen Stadt und ihren Bürger*innen zu dienen und durch Kooperation und Innovation die Zukunft mitzugestalten.
+Unsere Politischen Ziele für [Recklinghausen ](http://phd-partei.de/themen/lokal-kommunalpolitik-recklinghausen) sind es, dieser einzigartigen Stadt und ihren Bürger*innen zu dienen und durch Kooperation und Innovation die Zukunft mitzugestalten.

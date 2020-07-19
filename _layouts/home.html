@@ -5,52 +5,18 @@ layout: default
     <!-- Header -->
     <header class="masthead">
       <div class="container">
+        <img class="img-fluid" src="{{base}}/assets/img/content/header-home-bg.png" alt="">
         <div class="intro-text">
-          <div class="intro-lead-in">
-            <blockquote class="blockquote text-center">
-              <p class="mb-0">{{ site.data.home.intro.lead-in-1 }}</p>
-              <p class="mb-0">{{ site.data.home.intro.lead-in-2 }}</p>
-              <p class="mb-0">{{ site.data.home.intro.lead-in-3 }}</p>
-              <footer class="blockquote-footer"><cite title="Source Title">{{ site.data.home.intro.lead-in-source }}</cite></footer>
-            </blockquote>
-          </div>
-          <div class="intro-heading text-uppercase">{{ site.data.home.intro.heading }}</div>
-          <a class="header-more js-scroll-trigger" href="#services"><i class="fas fa-chevron-down fa-5x"></i></a>
+          <div class="home-heading text-uppercase">{{ site.data.home.intro.heading }}</div>
         </div>
       </div>
     </header>
-
-    <!-- Services -->
-    <section id="services">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">{{ site.data.home.services.heading }}</h2>
-            <h3 class="section-subheading">{{ site.data.home.services.subheading }}</h3>
-          </div>
-        </div>
-        <div class="row text-center">
-          {%- for service in site.data.home.services.service -%}
-          {% assign ws = '' %}
-          <div class="col-md-4">
-            <span class="fa-stack fa-4x">
-              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-              <i class="{{ service.icon }} fa-stack-1x fa-inverse"></i>
-            </span>
-            <h4 class="service-heading">{{ service.heading }}</h4>
-            <p>{{ service.text }} 
-                {% if service.url %}
-              <a href="{{service.url}}">Mehr</a></p>
-              {% endif %}
-          </div>
-          {%- endfor -%}
-        {% assign ws = '' %}
-        </div>
-      </div>
+    <!-- Social media feed -->
+    <section class="feed" id="feed">
+      {% include feed.html %}
     </section>
-
     <!-- Themes Grid -->
-    <section class="bg-light" id="portfolio">
+    <section class="" id="portfolio">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">

@@ -1,6 +1,6 @@
 ---
 title: Natur und Umwelt
-description: Natur und Umwelt
+description: Natürliches Gleichgewicht mit nachhaltigem Synergieeffekt für Mensch und Natur ermöglichen
 tags: [keyword1, keyword2, keyword3]
 thumbnail: img/themen/natur-umwelt.png
 client: Natur und Umwelt

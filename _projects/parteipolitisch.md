@@ -33,5 +33,5 @@ layout: panel
 
 -   Aufklärung der Wähler\*innen über die politischen Geschehnisse
 
--   Die Finanzen, Ziele und Rhetorik der ´Holisten´ sollen möglichst
+-   Die Finanzen, Ziele und Rhetorik der PHD sollen möglichst
     transparent sein

@@ -1,24 +1,20 @@
 ---
 layout: default
 ---
-<div class="container" id="news">
-    {%- for project in site.projects -%}
-    {% assign ws = '' %}
+<div class="container">
     <div class="row">
-    <div class="col-md-12">
-        <div class="news-container">
-            <div class="news-title">
-                <h2>{{ project.title }}</h2>
-            </div>
-            <div class="news-description">
-                {{ project.description }}
-            </div>
-            <div class="news-more">
-                <a href="{{ project.url }}">Mehr</a>
-            </div>
-        </div>  
-    </div>  
-    </div>
-    {% endfor %}
+      {%- for project in site.projects -%}
+      {% assign ws = '' %}
+      <div class="col-md-4 col-sm-6 portfolio-item">
+        <a class="portfolio-link"  href="{{ project.url}}">
+          <img class="img-fluid" src="{{base}}/assets/{{ project.thumbnail }}" alt="">
+        </a>
+        <div class="portfolio-caption">
+          <h4>{{ project.title }}</h4>
+          <p>{{ project.description }}</p>
+        </div>
+      </div>
+      {%- endfor -%}
     {% assign ws = '' %}
-</div>
+    </div>
+  </div>

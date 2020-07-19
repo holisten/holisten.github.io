@@ -1,11 +1,11 @@
 title: Partei Holistischer Demokratie
 name: Partei Holistischer Demokratie
 lang: de-DE
-email: info@holisten.de
+email: info@phd-partei.de
 description: >- # this means to ignore newlines until "baseurl:"
   Partei Holistischer Demokratie aus Recklinghausen
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://holisten.de" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://phd-partei.de" # the base hostname & protocol for your site, e.g. http://example.com
 assets_path: 'assets/'
 sass:
   style: compressed
@@ -15,11 +15,11 @@ collections:
     output: true
     permalink: /themen/:name/
 twitter:
-  username: "@dieholisten"
+  username: "@holisten3"
 social:
   links:
-    - https://twitter.com/dieholisten
-    - https://www.facebook.com/dieholisten/
+    - https://twitter.com/holisten3
+    - https://www.facebook.com/PHD-recklinghausen/
     - https://github.com/holisten/
 # Build settings
 markdown: kramdown

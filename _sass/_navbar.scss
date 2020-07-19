@@ -17,7 +17,7 @@
     @include heading-font;
   }
   .navbar-brand {
-    color: $gray-500;
+    color: black;
     box-shadow: none;
     @include script-font;
     &.active,
@@ -34,14 +34,14 @@
         font-weight: 600;
         padding: 0.75em 0;
         letter-spacing: 1px;
-        color: $gray-800;
+        color: black;
         box-shadow: none;
         @include heading-font;
       }
       .nav-link-text {
         &.active,
         &:hover {
-          border-bottom: 2px solid $gray-800;
+          border-bottom: 2px solid black;
         }
       }
     }
@@ -49,7 +49,7 @@
   &.navbar-shrink {
     padding-top: 0;
     padding-bottom: 0;
-    border-bottom: 1px solid $gray-500;      
+    border-bottom: 1px solid black;      
     background-color: $white;
     .navbar-brand {
       font-size: 1.25em;

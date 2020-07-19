@@ -5,25 +5,25 @@ permalink: "/site/impressum/"
 
 ---
 ## Impressum
-die Holisten Partei
+Partei Holistischer Demokratie
 
-E-Mail: info@holisten.de
+E-Mail: info@phd-partei.de
 
 
 ##### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
-die Holisten Partei Vorstand
+Partei Holistischer Demokratie Vorstand
 
-info@holisten.de
+info@phd-partei.de
 
 
 
-#### Die Holisten Partei
+#### Partei Holistischer Demokratie
 
 Vorsitzender: Till Flüchter
 
 Stellvertretender Vorsitzender: Markus Kolley
 
-Schatzmeister: Jerome Neumann Dobus
+Schatzmeister: i.A. Mathis Flüchter
 
 
-Kontakt: info@holisten.de
+Kontakt: info@phd-partei.de

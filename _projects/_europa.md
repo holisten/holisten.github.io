@@ -1,14 +1,11 @@
 ---
 title: Europa
-description: Partei Holistischer Demokratie aktiv in Europa
-tags:
-- holisten
-- europa
-- wahlen
-- recklinghausen
-layout: posts
-permalink: "/europa/"
-
+description: Partei Holistischer Demokratie in Europa
+tags: [holisten, europa, wahlen, recklinghausen]
+thumbnail: img/themen/europa.png
+client: Europa
+category: Partei Holistischer Demokratie in Europa
+layout: panel
 ---
 Lieber Demos, zu dem auch wir gehören,
 

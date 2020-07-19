@@ -1,6 +1,6 @@
 ---
 title:  Wirtschaft und Industrie
-description: Wirtschaft und Industrie
+description: "'It isn't all over; everything has not been invented; the human adventure is just beginning.' - Gene Roddenberry"
 tags: [keyword1, keyword2, keyword3]
 thumbnail: img/themen/wirtschaft-industrie.png
 client: Wirtschaft und Industrie
