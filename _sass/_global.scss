@@ -10,7 +10,7 @@ body {
 }
 
 #content-wrap {
-  padding-bottom: 8rem;    /* Footer height */
+  padding-bottom: 12rem;    /* Footer height */
 }
 
 p {
@@ -77,6 +77,9 @@ section.feed {
   color: white;
 }
 @media(min-width:768px) {
+  #content-wrap {
+    padding-bottom: 8rem;    /* Footer height */
+  }
   section {
     padding: 100px 0;
   }
