@@ -1,6 +1,6 @@
 ---
 title:  Staat und Verwaltung
-description: Staat und Verwaltung
+description: Gleiches Recht für alle
 tags: [keyword1, keyword2, keyword3]
 thumbnail: img/themen/staat-verwaltung.png
 client: Staat und Verwaltung

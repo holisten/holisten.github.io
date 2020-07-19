@@ -14,9 +14,11 @@ copyright: Copyright &copy; PHD 2020
 
 social-buttons:
   - icon: fab fa-facebook
-    url: 'https://www.facebook.com/dieholisten/'
+    url: 'https://www.facebook.com/PHD.recklinghausen/'
   - icon: fab fa-instagram
     url: 'https://www.instagram.com/phd_recklinghausen/'
+  - icon: fab fa-youtube
+    url: 'https://www.youtube.com/channel/UCVUjxCY5fYkbuR7-27iy3gw'
 
 quicklinks:
   - title: Datenschutz

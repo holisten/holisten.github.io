@@ -1,50 +1,135 @@
-$fragment_width: 25%;
 
-.show-neighbors {
-  overflow: hidden;
-
-  .carousel-indicators {
-    display: none;
+#socialFeed {
+  .card {
+    border: none;
+    background-color: transparent;
+    padding: 10px;
   }
-
-  .carousel-control-prev, 
-  .carousel-control-next {
-    background: rgba(255, 255, 255, 0.6);
-    width: $fragment_width;
-    z-index: 11;  /* .carousel-caption has z-index 10 */
+  .card-header {
+    padding: 0 0 0 0;
+    border: none;
+    background-color: transparent;
   }
-
-  .carousel-inner {
-    width: (100% - 2 * $fragment_width) * 3;
-    left: 3 * $fragment_width - 100%;
+  
+  .card-body {
+    padding: 15px 0 0 0;
+    border: none;
+    background-color: transparent;
+    font-size: 8pt;
   }
-
-  .carousel-item-next:not(.carousel-item-left),
-  .carousel-item-right.active {
-    -webkit-transform: translate3d(33%, 0, 0);
-    transform: translate3d(33%, 0, 0);
+  .btn-social-icon {
+    color: #fff;
+    background-color: black !important;
   }
-
-  .carousel-item-prev:not(.carousel-item-right),
-  .carousel-item-left.active {
-    -webkit-transform: translate3d(-33%, 0, 0);
-    transform: translate3d(-33%, 0, 0);
+  .btn-social-icon:hover {
+    color: #fff;
+    box-shadow: none;
   }
-
-  .item__third {
-    float: left;
-    position: relative;  /* captions can now be added */
-    width: 33.33333333%;
+  .feed-header {
+    color: $black;
+  }
+  .feed-header:hover {
+    color: $phd-red;
   }
 }
 
-@media(min-width:768px) {
-.show-neighbors {
-        overflow: hidden;
-        .carousel-indicators {
-            margin-right: $fragment_width;
-            margin-left: $fragment_width;
-            display: flex;
-        }
-    }
-}
+// $fragment_width: 25%;
+// $fragment_width2: 10%;
+// .feed-img {
+//   position: relative;
+//   max-width: 100px;
+// }
+// .btn-social-icon {
+//   color: #fff;
+//   background-color: black !important;
+// }
+// .btn-social-icon:hover {
+//   color: #fff;
+//   box-shadow: none;
+// }
+// .show-neighbors {
+//   overflow: hidden;
+
+//   .carousel-indicators {
+//     display: none;
+//   }
+//   .carousel-caption {
+//     bottom: 0;
+//     top: 20px;
+//     font-size: 20px;
+//   }
+//   .carousel-caption a {
+//     text-shadow: 1px 1px 1px black;
+//   }
+
+//   .carousel-control-prev, 
+//   .carousel-control-next {
+//     background: rgba(255, 255, 255, 0.3);
+//     width: $fragment_width2;
+//     z-index: 11;  /* .carousel-caption has z-index 10 */
+//   }
+//   .carousel-control-next,
+//   .carousel-control-prev {
+//       filter: invert(100%);
+//   }
+//   .carousel-inner {
+//     width: (100% - 2 * $fragment_width2) * 3;
+//     left: 3 * $fragment_width2 - 100%;
+//   }
+
+//   .carousel-item-next:not(.carousel-item-left),
+//   .carousel-item-right.active {
+//     -webkit-transform: translate3d(33%, 0, 0);
+//     transform: translate3d(33%, 0, 0);
+//   }
+
+//   .carousel-item-prev:not(.carousel-item-right),
+//   .carousel-item-left.active {
+//     -webkit-transform: translate3d(-33%, 0, 0);
+//     transform: translate3d(-33%, 0, 0);
+//   }
+
+//   .item__third {
+//     float: left;
+//     position: relative;  /* captions can now be added */
+//     width: 33.33333333%;
+//     //height: 400px;
+//   }
+
+// }
+// // Styling for the portfolio section
+// #socialFeed {
+
+// }
+// @media(min-width:768px) {
+//   .feed-img {
+//     position: relative;
+//     max-width: 400px;
+//   }
+// .show-neighbors {
+  
+//         overflow: hidden;
+//         .carousel-indicators {
+//             margin-right: $fragment_width;
+//             margin-left: $fragment_width;
+//             display: flex;
+//         }
+//         .carousel-caption {
+//           bottom: 0;
+//           top: 20px;
+//         }
+//         .item__third {
+//           height: 400px;
+//         }
+//         .carousel-control-prev, 
+//         .carousel-control-next {
+//           background: rgba(255, 255, 255, 0.6);
+//           width: $fragment_width;
+//           z-index: 11;  /* .carousel-caption has z-index 10 */
+//         }
+//         .carousel-inner {
+//           width: (100% - 2 * $fragment_width) * 3;
+//           left: 3 * $fragment_width - 100%;
+//         }
+//     }
+// }

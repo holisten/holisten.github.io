@@ -11,6 +11,7 @@ sidebar: partei
 Hier ist das [Parteiprogramm](/partei/programm/) der Partei Holistischer Demokratie
 
 ## Ausgangslage, Motivation
+<img class="img-fluid" src="{{base}}/assets/img/content/seperator.png" alt="">
 
 Die Welt war noch nie potentiell so gut vernetzt wie heute. Gleichzeitig gibt es
 auf lokaler gesellschaftlicher sowie globaler staatlicher Ebene zunehmend

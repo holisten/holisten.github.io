@@ -1,6 +1,6 @@
 ---
 title: Gesundheit, Medizin und Ernährung
-description: Gesundheit, Medizin und Ernährung
+description:
 tags: [keyword1, keyword2, keyword3]
 thumbnail: img/themen/gesundheit-medizin-ernaehrung.png
 client: "Gesundheit, Medizin und Ernährung"

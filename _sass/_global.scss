@@ -4,16 +4,25 @@ body {
   @include body-font;
   color: $black;
 }
+#page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+#content-wrap {
+  padding-bottom: 8rem;    /* Footer height */
+}
 
 p {
   line-height: 1.75;
+  word-wrap: break-word;
 }
 
 a {
-  color: #1074e7;
+  color: #20479a;
+  word-wrap: break-word;
   &:hover {
     text-decoration: none;
-    box-shadow: 0 1px 0 0 rgba(16,116,231,.5);
   }
   img {
     color:transparent;
@@ -25,14 +34,23 @@ a {
   color: $primary !important;
 }
 
-h1,
-h2,
+h1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  @include heading-font;
+}
+h2 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  @include heading-font;
+}
 h3,
 h4,
 h5,
 h6 {
   font-weight: 700;
   @include heading-font;
+  font-size: 1.1rem;
 }
 
 section {
@@ -54,10 +72,24 @@ section {
 section.feed {
   padding: 50px 0;
 }
+.bg-blue {
+  background-color: $phd-blue;
+  color: white;
+}
 @media(min-width:768px) {
   section {
-    padding: 150px 0;
+    padding: 100px 0;
   }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-weight: 700;
+    @include heading-font;
+  }
+
 }
 
 // Button Styles

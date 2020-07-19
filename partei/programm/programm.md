@@ -20,6 +20,7 @@ h_max: 3
 ---
 Parteiprogramm der Partei Holistischer Demokratie
 ===========================
+<img class="img-fluid" src="{{base}}/assets/img/content/seperator.png" alt="">
 {:.no_toc}
 
 τὰ ὄντα ἰέναι τε πάντα καὶ μένειν οὐδέν
