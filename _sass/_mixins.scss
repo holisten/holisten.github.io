@@ -23,6 +23,21 @@
   src: url("/assets/fonts/LEMONMILK-Light.woff") format("woff"), url("/assets/fonts/LEMONMILK-Light.ttf")  format("truetype");
 }
 
+@font-face {
+  font-family: OpenSans;
+  src: url("/assets/fonts/OpenSans-Regular.ttf")  format("truetype");
+}
+@font-face {
+  font-family: OpenSans;
+  font-weight: bold;
+  src: url("/assets/fontsOpenSans-Bold.ttf")  format("truetype");
+}
+@font-face {
+  font-family: OpenSans;
+  font-weight: lighter;
+  src:url("/assets/fonts/OpenSans-Light.ttf")  format("truetype");
+}
+
 @mixin serif-font {
   font-family: 'LemonMilk', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -30,7 +45,7 @@
   font-family: 'LemonMilk', 'Helvetica Neue', Helvetica, Arial, cursive;
 }
 @mixin body-font {
-  font-family: 'LemonMilk', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'OpenSans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 @mixin heading-font {
   font-family: 'LemonMilk', 'Helvetica Neue', Helvetica, Arial, sans-serif;
