@@ -9,10 +9,10 @@ layout: panel
 ---
 ## Gesellschaft, Ethik, Religion
 
--   für mehr Selbstreflektion sowie -kritik, -achsamkeit, Geduld der Akteure
+-   für mehr Selbst­re­fle­xi­on sowie -kritik, -achsamkeit, Geduld der Akteure
     und die Anerkennung von multiperspektiven Sichtweisen
 
--   Die Hollisten fordern, dass die Menschen nicht durch stumpfe mediale
+-   Die PHD fordert, dass die Menschen nicht durch stumpfe mediale
     Stereotypisierung gegeneinander ausgespielt werden,
 
 -   Auf globaler Ebene soll die gesamte Menschheitsfamilie sich als ein

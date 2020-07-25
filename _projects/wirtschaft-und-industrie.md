@@ -55,5 +55,5 @@ layout: panel
 
     -   Überkommunaler Wissensaustausch für Technologieinnovation
 
--   Mehr Erfsorschung von Fusionskraftwerken (welche Nachteile und Risiken
+-   Mehr Erforschung von Fusionskraftwerken (welche Nachteile und Risiken
     wirtschaftspolitisch und technisch)

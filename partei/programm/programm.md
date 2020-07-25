@@ -123,10 +123,10 @@ verstehen.
 
 ### Gesellschaft, Ethik, Religion
 
--   für mehr Selbstreflektion sowie -kritik, -achsamkeit, Geduld der Akteure
+-   für mehr Selbst­re­fle­xi­on sowie -kritik, -achsamkeit, Geduld der Akteure
     und die Anerkennung von multiperspektiven Sichtweisen
 
--   Die Hollisten fordern, dass die Menschen nicht durch stumpfe mediale
+-   Die PHD fordert, dass die Menschen nicht durch stumpfe mediale
     Stereotypisierung gegeneinander ausgespielt werden,
 
 -   Auf globaler Ebene soll die gesamte Menschheitsfamilie sich als ein
@@ -248,7 +248,7 @@ für andere kommende Generationen sein können.
 
     -   Überkommunaler Wissensaustausch für Technologieinnovation
 
--   Mehr Erfsorschung von Fusionskraftwerken (welche Nachteile und Risiken
+-   Mehr Erforschung von Fusionskraftwerken (welche Nachteile und Risiken
     wirtschaftspolitisch und technisch)
 
 ### Parteipolitisch
