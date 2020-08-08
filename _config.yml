@@ -34,4 +34,5 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-seo-tag
+  - kramdown-parser-gfm
 permalink: /aktuelles/:year-:month-:day-:title:output_ext/
