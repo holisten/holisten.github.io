@@ -23,7 +23,6 @@ Vorsitzender: Till Flüchter
 
 Stellvertretender Vorsitzender: Markus Kolley
 
-Schatzmeister: i.A. Mathis Flüchter
 
 
 Kontakt: info@phd-partei.de
